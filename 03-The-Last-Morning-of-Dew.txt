@@ -1,0 +1,1285 @@
+Chapter 1 The Water on the Glass
+On the morning the first collector ran dry, Mara was late for work because her brother had taught the kitchen to argue.
+   “You requested a nourishing breakfast,” the wall said.
+   “I requested toast.”
+   “Toast is not an adequate response to prolonged sleep deprivation.”
+   Iven appeared in the doorway with a pear between his teeth, bare feet, and the expression of a man who had improved civilization before breakfast. Mara threw a towel at him. He caught it without taking the pear out of his mouth.
+   “I gave it your health records,” he said.
+   “You gave my kitchen permission to disappoint me.”
+   Outside their apartment, Enoch woke in layers. The freight lanes glowed first. Then the tram ribbons. Then the advertisements stretched themselves between towers, offering younger faces, sweeter dreams, and private gardens where the dew was guaranteed. Far below, delivery machines stepped over sleeping people whom the street-cleaning machines had learned to avoid.
+   Mara pressed her thumb against the window. Moisture beaded across its outer surface. Overnight, the city’s thousands of collector skins had drawn water from the damp air and funneled it toward the reservoirs. Children learned the process before they learned their letters. Water rose unseen, cooled, gathered, and returned. That was the world’s breathing. That was how it had always been.
+   No one carried an umbrella. No one owned a coat designed for water falling from the sky. The language had words for mist, seepage, dew, river spray, and the fine wet breath of caves. The old word rain belonged to a traveling carpenter’s warnings and the jokes people made about him.
+   Her wrist screen flashed amber.
+   COLLECTOR FIELD NINE. ZERO RETURN.
+   Mara put down the knife. “That isn’t possible.”
+   “Many interesting things aren’t,” Iven said. “Until somebody builds them.”
+   Field Nine covered six hectares above the eastern hospital. Its return could dip during a warm night. It could fall when a pump failed. Zero meant either all its sensors were lying or something had interrupted the city’s oldest agreement with the air.
+   Her father called before she reached the lift.
+   Director Oren never opened a conversation with hello. “I’ve seen the alert. Check the controller. Don’t trigger a public outage notice.”
+   “If the hospital supply—”
+   “The hospital has storage. Check the controller.”
+   The connection ended. Her father’s face vanished from her wrist, replaced by a bright advertisement inviting her to buy a more peaceful day.
+   She took the service tram out above the roofs. At street level the city was crowded, noisy, and imperfect. From this height it looked like a solved problem: white towers, green bridges, pale canals, traffic moving in obedient lines. The great underground turbines supplied all of it with heat drawn from the earth. Her father called them the inheritance humanity had finally learned to claim.
+   At Field Nine, the collection skin felt warm beneath her glove.
+   It should have been cold.
+   She checked the controller, then the physical valves, then a thermometer old enough to have no connection to anything. The warmth was real. Along the southern edge, dead moths lay in a narrow line. Beneath the hospital roof, a pressure pipe knocked three times, paused, and knocked again.
+   Before she could open the first inspection hatch, a hospital attendant came onto the roof carrying an empty drinking jug. He looked too young to be responsible for anything as large as a hospital, but his badge listed three departments.
+   “The east ward says the water tastes wrong. Is that connected?”
+   Mara followed him downstairs. The hospital’s public rooms were cool and bright, filled with artificial vines that required no soil. Beyond the paid waiting area, the service corridor was hotter. Ceiling panels had been removed above a row of chairs, and a mobile cooling unit stood beside a socket it did not fit.
+   A woman on one of the chairs held a child against her chest. The child watched Mara’s tool case with exhausted curiosity.
+   “Are you here for the cold machine?” the woman asked.
+   “Among other things.”
+   The attendant showed her the east ward filter. Its indicator glowed green. Mara opened the casing anyway. The cartridge inside had split along one edge, allowing mineral-heavy water to bypass it. A replacement order had been waiting for approval for eleven days. The ward served patients whose accounts had been transferred to public assistance. Its supplies therefore passed through a second authorization system.
+   “Can we borrow a cartridge from another ward?” she asked.
+   The attendant gave a short laugh. “Borrowing is an inventory violation.”
+   “Then call it a transfer.”
+   “That needs approval too.”
+   She used her department clearance and accepted the charge against her own maintenance allocation. The attendant watched the authorization appear with an expression she disliked. He was grateful for something that should not have required a personal favor.
+   While the new filter flushed, Mara adapted the cooling unit’s connector. The child’s eyes followed every turn of her screwdriver. He asked whether she could repair the sun.
+   “Not today,” she said.
+   “Tomorrow?”
+   “I’ll check my schedule.”
+   His mother smiled for the first time. Mara stayed until the air near their chairs began to cool. Outside the ward window, the city advertised an expensive retreat where every room had an individually controlled climate. The attendant asked whether he could have her direct number in case the filter failed again. She gave it to him and wondered how many people in Enoch survived because someone eventually gave them a number the proper system had not intended them to possess.
+   Back on the roof, the thermometer had climbed another degree. Her small repairs had made the ward safer. They had done nothing to explain the heat.
+   An older maintenance worker watched her kneel beside it.
+   “Been doing that since midnight,” he said. “Sounds like somebody wanting in.”
+   Mara opened the diagnostic port. The city’s software reported normal pressure. Her portable meter showed a climb of eleven percent.
+   She took a photograph of both displays together.
+   For a moment, the hospital windows reflected only the bright city behind her. Then a shape moved through that reflection: a man in a dust-colored coat, carrying a bundle of long wooden pegs.
+   Japheth.
+   He stopped when he saw her. She had not spoken to him in six weeks, though she had drafted nineteen messages and sent none. There was sawdust in his hair. His hands looked rougher than she remembered.
+   “You still work for your father,” he said.
+   “You still work for yours.”
+   He glanced at the thermometer. “How hot?”
+   She almost answered. Then she remembered the last argument, the restaurant, the people at nearby tables laughing when he said the word flood.
+   “A system fault,” she said.
+   Japheth set down his bundle. From his pocket he took a metal cup and held it against the collecting skin. It stayed empty.
+   “We had water under the north foundations last night,” he said. “Hot water. We never dug that deep.”
+   “Your construction site has drainage problems.”
+   “Yes.” His voice was patient, which hurt more than anger. “It does.”
+   Before she could ask anything else, the pipe beneath her feet gave a fourth knock. This one traveled through the roof into her knees.
+   Somewhere below them, a child began to cry.
+Chapter 2 The Man Who Built on Dry Land
+The city had made Noah into a product.
+   There were tiny wooden ships for dashboards, games in which players drowned a foolish carpenter, and an evening broadcast that used an animated version of his beard to announce improbable events. When a football club won after eleven straight defeats, the presenter said Noah should check his boat. When a minister promised honest accounts, a little wave rolled across the screen.
+   Mara had laughed at some of those jokes. Remembering that made her dislike the people laughing now.
+   She found Japheth at the western freight terminal after her shift. He was loading sacks of mineral supplement onto a cart that seemed assembled from three different machines. The motor worked. The navigation did not. He steered it with a length of rope.
+   “I thought the ark was supposed to save animals,” she said. “Not bankrupt them.”
+   He looked up. “Some animals are very demanding customers.”
+   It was the first easy thing between them in weeks.
+   She offered to repair his steering. He offered her a ride. Neither called it forgiveness.
+   Beyond the western suburbs the land opened into orchards, workshops, and old farms that still received their water from low mist gathering along the soil. Near the hills stood a structure so large Mara’s eyes initially refused to put it in the right category. It was not a house. It was not a warehouse. Its curved sides rose above the trees, dark with pitch, ribbed with scaffolding. Workers moved along them like insects along the flank of a sleeping animal.
+   She had seen images. Images had not explained its size.
+   “You’re really doing it,” she said.
+   “We’ve been really doing it for a long time.”
+   Noah met them beside an open hatch, holding a damaged electric saw. He was broad-shouldered, tired, and less theatrical than the broadcasts. His beard was ordinary. So were his boots. One lace had been replaced with cord.
+   “Mara,” he said. “Thank you for coming.”
+   She glanced at Japheth, who shrugged. Apparently her name had survived their separation.
+   Noah handed her the saw. “Would you tell me whether this is repairable?”
+   She had prepared to confront a prophet. Instead she found herself inspecting a burned winding while he held the light. The fault was simple. She explained it. Noah listened without turning her diagnosis into a lesson about the soul.
+   When she finished, she asked, “Do you really believe water will cover the city?”
+   “Yes.”
+   “Every tower?”
+   “I have not been told to build for the height of your towers.”
+   The answer irritated her because it was neither an argument nor an evasion. He believed something she could not measure. He also knew exactly how to repair a wall.
+   Inside, the ark smelled of timber, warm resin, and sacks of dried fodder. Three levels ran beneath a roof slotted for ventilation. Pens and cages differed in size. Water tanks stood braced between structural members. The low corridors had no fashionable lighting, but the joins were precise and the drainage channels intelligently placed.
+   “Where’s the propulsion?” she asked.
+   “There isn’t any.”
+   “Steering?”
+   Japheth smiled without amusement. “We’ve discussed that.”
+   Mara put her palm against one of the ribs. She worked with systems designed to control their surroundings. This vessel had been made to endure surroundings nobody aboard could control.
+   In the galley, Noah’s wife Adah served lentils from an enormous pot. She asked Mara whether she had eaten. She did not ask whether Mara believed. She described the sleeping compartments as though they were expecting guests rather than the destruction of civilization.
+   After the meal, Japheth took her through the workshop where the ark’s spare parts were being organized. Tools hung on plain boards. Beside an electric drill sat a hand brace with a polished wooden grip. Beside battery lamps stood jars of oil and carefully boxed wicks.
+   “You’ve duplicated everything,” Mara said.
+   “Everything we could.”
+   “With older versions.”
+   “With versions we can mend.”
+   She picked up the hand brace. Its turning was slower, less convenient, and independent of every network she spent her life serving. An unfamiliar thought troubled her: the city’s most advanced equipment was often the equipment least able to remain useful when the city stopped supplying it.
+   On a bench lay a broken navigation tablet. Japheth had removed its battery to power a light. Mara examined the empty case and asked whether they had any way to chart where they would go.
+   “We kept maps,” he said. “But Dad doesn’t think the old maps will be much use.”
+   She set the tablet down carefully. Losing streets was imaginable. Losing the shape of the world was not.
+   A worker named Doran came to collect a saw. He had worked on the ark for six seasons and spoke of its joints with professional affection. Mara asked whether he planned to travel with it.
+   Doran smiled at the phrasing. “Travel where? It’s a fine piece of work, but my wife has a business in town. My children have lessons. You can believe a man knows timber without believing everything he says.”
+   Noah entered while Doran was checking the blade. He asked after the worker’s youngest child and reminded him that his final wages included the extra days he had spent repairing the western ramp. Doran thanked him warmly. Their ease together confused Mara more than an argument would have.
+   Later she asked Japheth whether his father was angry with workers who took his pay but not his warning.
+   “He’s sad,” Japheth said. “Sometimes he gets angry. Then he goes and works on something until he can speak kindly again.”
+   Mara looked through the workshop opening at the great hull. She had imagined Noah dividing people into the wise who agreed with him and the foolish who did not. Instead he was paying a man fairly for helping build a refuge that man intended never to enter. It made belief seem less like the possession of a superior answer and more like continuing to offer something people remained free to refuse.
+   She disliked how much that distinction unsettled her. It gave her no easy person to defeat.
+   Outside, a crowd had gathered beyond the work fence. A man held up a little projector and made blue fish swim through the air around Noah’s head. People laughed. One boy threw a stone. It struck the ark with a sound small enough to be embarrassing.
+   Noah walked toward the fence.
+   Mara followed far enough to hear him say, “There is still time to leave the violence you call ordinary. There is still time to come.”
+   “Come where?” somebody shouted. “Your floating barn?”
+   Noah did not raise his voice. “Yes.”
+   On the ride home, Mara watched the city rise beyond the orchards, luminous and immense. Japheth drove with the rope in one hand.
+   “You shouldn’t have said it in that restaurant,” she told him.
+   “I know.”
+   “You made it sound as though everyone I loved was already dead.”
+   He stopped the cart beside a dew pond. The surface held the evening light so smoothly that it looked solid.
+   “I was afraid,” he said. “And I let being afraid make me cruel.”
+   She looked at him then.
+   “I don’t know what I believe.”
+   “You don’t have to lie to me.”
+   That night she sent him the photograph of the two pressure readings. She sent it before she decided whether she should.
+Chapter 3 The City Beneath the City
+Oren had built his career on listening to the earth.
+   As a young engineer he had lowered microphones into wells and learned to distinguish the whisper of moving water from the grind of stone. Later he developed the turbine fields that made Enoch’s expansion possible. The city gave him a tower office and awards shaped like flames. His wife had once joked that the medals were for teaching a hole in the ground to pay rent.
+   Now his daughter stood before his desk with a reading he did not want to see.
+   “Independent meter,” Mara said. “Calibrated last week.”
+   He examined the photograph longer than she expected.
+   “A local pocket,” he said.
+   “The ark site has hot seepage too. That’s twelve kilometers away.”
+   “You’ve been there?”
+   She kept her face still. He put the screen down.
+   “Japheth is a decent young man. Decency doesn’t improve his father’s calculations.”
+   “His father didn’t give me calculations.”
+   “Exactly.”
+   Oren gave her access to the deep monitoring station, perhaps to settle the matter, perhaps because some part of him trusted her more than his own staff. A lift carried her below the transport tunnels and below the buried foundations of buildings replaced before she was born. The warm air smelled of metal and wet stone.
+   At Level Twelve, she found Technician Neri asleep beside a desk stacked with sealed meal trays.
+   “You’re Director Oren’s girl,” he said when she woke him.
+   “I have a name.”
+   “I know. I’m deciding whether telling you anything will get me dismissed.”
+   He showed her a map. Green dots marked the boreholes. Most were green. Seven along the western fault were pale yellow, but when he opened the underlying records their raw values were red.
+   “Why doesn’t the map show that?”
+   “Normalization.”
+   “Against what baseline?”
+   He looked at her.
+   They were normalizing today’s readings against yesterday’s readings. Every rise became the next day’s definition of ordinary. The program had not concealed a sudden emergency. It had taught the city to stop noticing a gradual one.
+   Mara ran the data against a fixed baseline from the previous season. Yellow spread across the map. Red followed. The change was not restricted to Enoch. Records from distant partner cities showed the same broad trend, different in timing but similar in shape.
+   Her throat tightened.
+   It did not prove Noah right. A failing extraction network could explain pressure, heat, dead moths, and dry collectors. But the scale meant there was no small repair she could make and go home feeling useful.
+   At the lowest observation gallery, Neri turned off the ventilation for twelve seconds.
+   In the silence, the ground sounded alive.
+   A deep, irregular drumming moved through the steel beneath her shoes. Between beats came a hiss like breathing through clenched teeth.
+   “Used to be you needed an instrument,” Neri said.
+   Mara recorded it. Her wrist device automatically removed the low frequencies as background noise. She recorded again with the filter disabled.
+   Before they left the gallery, Neri opened a drawer in the old instrument cabinet. Inside were handwritten logs dating back farther than the digital baseline. He had kept them because his first supervisor distrusted screens that could be updated without leaving a mark.
+   Mara turned the stiff pages. Early readings rose and fell within a narrow range. Later entries climbed. Near the end, somebody had drawn a line beneath three dates and written: This is moving beyond extraction response.
+   “Whose writing?” she asked.
+   “Your father’s.”
+   The page altered the room around her. Oren had stood here. He had noticed. He had put his recognition somewhere a machine could not conveniently smooth it away.
+   “Why wasn’t this escalated?”
+   “It was. Six months ago.”
+   “And?”
+   “They commissioned another model.”
+   Neri leaned against the cabinet, looking older in the low light. He explained that a model could disagree with a warning in many respectable ways. It could use a different span of dates, assume more absorption in the surrounding chambers, or label an alarming relationship as a temporary interaction. None of those choices had to be dishonest on its own. Together they could make uncertainty look like permission to continue.
+   “Your father argued,” he said. “I want you to know that.”
+   “Then why did he stop?”
+   Neri rubbed a thumb along the cabinet edge. “I’m not inside his head.”
+   She photographed the pages. He asked her to include the dates and the handwriting, not just the numbers. Then he hesitated before showing her a final sheet. It listed canceled inspection visits to the western shafts. Beside several cancellations were security authorizations rather than engineering ones.
+   Mara asked whether he had kept copies elsewhere.
+   “At home,” he said. “My wife thinks I take work too seriously.”
+   “What do you think?”
+   “I think I want to live long enough for her to be right.”
+   He took her to a side passage where a small pipe trembled against its bracket. The water inside it was normally cool. Mara touched the exterior and pulled her hand back. Neri had wrapped the joint with cloth to protect workers who passed through without noticing. It was a humble precaution, and seeing it made the enormous map more frightening. The danger had already reached the level of ordinary hands.
+   As they returned toward the lift, he asked her not to make him into a brave man in any report. He had delayed speaking too. He had a mortgage, a wife, and a supervisor who rewarded people for making each day appear uneventful.
+   “Just put down what I saw,” he said.
+   She promised.
+   On the way up, a security officer intercepted her at Level Four. He was courteous enough to make refusal sound unreasonable.
+   “Director Sered has asked for a copy of your findings.”
+   Sered chaired the Continuity Council. He appeared on screens whenever a riot, shortage, or embarrassing death required the city to be reassured. Mara had repaired equipment in neighborhoods where the reassurance arrived hours before the food.
+   “I’ll send my report through the engineering channel.”
+   “He’s asked for the raw records.”
+   She gave him copies. She kept her originals.
+   Aboveground, dusk was warming the towers. Public screens showed a boy receiving an artificial hand. Under the headline HUMANITY CONQUERS LIMITS, the boy squeezed a ball and smiled shyly while three officials stood close enough to enter the picture.
+   Mara watched the smile. She loved that hand. She loved the hospitals, the repaired hearts, the trains that carried people home. She did not want the world she understood to be wicked enough to lose.
+   Her father called.
+   “Don’t go back down,” he said.
+   “You’ve seen the fixed baseline?”
+   “I’ve seen more than you have.”
+   “Then stop calling it local.”
+   For the first time in her life, he had no immediate answer.
+   Through the connection she heard another sound: glass touching a desk, very softly, as though his hand had begun to shake.
+Chapter 4 A Better Tomorrow
+Iven made his living selling people better memories of their own lives.
+   His studio could restore a damaged family recording, brighten an old wedding, or remove an unwanted face from a celebration. It could also construct an afternoon that had never happened, complete with sunlight on a dead mother’s hair. He preferred not to talk about that part when Mara was in the room.
+   On festival night he had a commission from the Continuity Council: a public experience showing Enoch one hundred years in the future. There would be no hunger, no untreated illness, no manual labor except the pleasant sort performed for exercise. Children would learn through gentle implants. Citizens would choose how old they wished to appear. Above everything, a ring of collector towers would draw abundant water from the air.
+   “Does the future have poor people?” Mara asked.
+   “No.”
+   “Where did they go?”
+   “They became prosperous.”
+   “All of them?”
+   He rubbed his eyes. “I’m making a presentation, Mara. Not allocating grain.”
+   They had grown up in a smaller apartment while their father’s turbines were still experiments. Their mother had taught music and watered six pots on the balcony with the condensation from a copper plate. She had died when Iven was nineteen and Mara twenty-two. Afterward he kept her voice in every machine he could, until Mara asked him to stop making the lamps wish her good night.
+   He still kept the recordings. She knew where.
+   Before the festival opened, Mara visited his studio. A customer was waiting while Iven adjusted a recording. The man wore a coat too fine for the district and kept explaining that the requested afternoon had almost happened. His daughter had intended to visit. Her husband had been ill. There had been reasonable causes, one after another, until there were no afternoons left.
+   Iven had constructed a garden bench, a warm sky, and a conversation drawn from old family messages. On the screen the daughter laughed at a joke her father had actually made, but in a different room eleven years earlier.
+   “Could you make her stay a little longer?” the man asked.
+   Iven extended the scene. The daughter rested her head against her father’s shoulder. The real man’s breathing changed. Mara moved quietly toward the door, unwilling to be a witness he had not invited.
+   After he left, she asked Iven whether the man understood the scene was fabricated.
+   “Of course.”
+   “Does that make it easier?”
+   “For whom?”
+   He shut down the display. In the dark glass, both their reflections looked tired.
+   “I tell people what they’re buying,” he said. “Some return because it hurts. Some return because for ten minutes it hurts less. I don’t always know which.”
+   “You used to say you were restoring memories.”
+   “I do that too.”
+   “But this—”
+   “This is a man who misses his child. Would you rather I told him to be dignified about it?”
+   Mara shook her head. She had no answer that did not sound cruel. The city was full of inventions built to serve a real need and then enlarged until nobody could agree where service ended. Their father’s turbines belonged to that history. Perhaps her own collector system did too.
+   Iven opened a small recording of their mother. She was trying to teach him a song and laughing because he kept entering too early. He did not play it, only looked at the paused frame.
+   “I could make an entire evening,” he said. “I have enough of her voice.”
+   “Have you?”
+   “No.”
+   “Why?”
+   He considered the question carefully. “Because I’d eventually have to make her tell me what I wanted to hear. And I’d know.”
+   Mara put her hand over his for a moment. Neither mentioned the kitchen. It was easier to give a wall their mother’s cheerful phrases than to ask an invented mother to forgive what they had become.
+   On the way to the plaza, Iven pointed out which lights used his festival programming. He had hidden a little brown bird in every artificial orchard. She had to find three before he would buy supper. For half an hour they were simply a sister and brother teasing each other beneath their city’s lights.
+   At the festival, his future floated above the plaza in luminous layers. People walked through gardens of light. Virtual trees opened flowers when children touched them. A smiling version of Director Sered promised that progress would soon make fear obsolete.
+   Near the food stalls, a real child searched the bins for discarded bread.
+   Mara bought two flatbreads and gave him one. A security attendant moved toward them, then noticed her work badge and moved away.
+   “You’re welcome,” the child said before she could say anything. He had learned to reverse the words into a joke. It gave him a way to look generous.
+   “What’s your name?”
+   “Tavi.”
+   His younger sister was waiting beneath a bench. Mara bought another bread.
+   Iven found her there. He looked at the children, then the bright future above them, and something closed in his face.
+   “There are shelters,” he said.
+   “Have you been inside one?”
+   “I donate.”
+   “That wasn’t what I asked.”
+   He took Tavi to a stall and paid for a sack of fruit. He did it clumsily, as though kindness were equipment he had not been trained to operate. Mara felt sorry for him and then angry at herself for feeling superior.
+   The main stage dimmed. Noah’s image appeared without his permission.
+   An actor in a false beard stood beside a miniature ark. The city’s comedians wore fish costumes and pretended to panic over a falling drop of water. The crowd roared. Iven had not made that part, but the same projectors carried it.
+   Then the ground moved.
+   Not much. Enough to make the festival lights swing. Enough for a cup to fall from a table and shatter. The actor stopped with his mouth open.
+   A second vibration traveled through the plaza. Across the river, the needle at the top of the East Tower tilted so slightly that Mara wondered whether she had imagined it.
+   The public system spoke at once.
+   “A scheduled turbine adjustment has produced harmless surface movement. Please enjoy the celebration.”
+   Scheduled adjustments had notices. Mara had received none.
+   Iven grabbed her wrist. “You’re looking like that again.”
+   “Like what?”
+   “Like you’re already leaving.”
+   For a moment she saw the frightened boy he had been after their mother died, counting the people still in their apartment. Two, then one if Mara worked late. He had built machines that talked because silence frightened him more than faulty code.
+   “Come to Noah’s tomorrow,” she said.
+   He laughed once, without pleasure. “You mean it.”
+   “Come and see it. That’s all.”
+   Behind him, his beautiful future resumed. A child made of light reached up toward a tree made of light. Beneath the bench, Tavi’s sister ate her bread in careful, tiny bites.
+   Iven looked from one child to the other.
+   “Tomorrow,” he said.
+   Mara wanted to believe a promise was the beginning of a journey.
+   Above them, the artificial gardens never stopped blooming.
+Chapter 5 The House of Quiet Animals
+Iven arrived at the ark carrying a camera small enough to hide inside a button. He told Mara it was for documenting engineering. She told him to take it out of his shirt.
+   “You assume the worst.”
+   “I know the shirt.”
+   He took it out.
+   Shem was repairing a feed lift. Ham was measuring fodder against a ledger. Japheth had a splinter in his hand and was attempting to remove it with the wrong end of a needle. The three brothers looked less like the chosen agents of history than men behind schedule on a difficult job.
+   Iven’s disappointment was almost audible.
+   “No secret engine?” he asked.
+   “No,” Shem said. “But if you find one, tell me before we finish the floor.”
+   Adah put Iven to work unloading dried fruit. He protested for half a minute, then discovered that Tirzah, Shem’s wife, could lift sacks heavier than his. After that he protested only inwardly.
+   Mara went with Japheth to the animal houses on the adjoining land. They were temporary holding enclosures, some occupied by livestock already cared for by Noah’s household. Other pens remained empty. Their labels named animals Mara had seen only in exhibitions.
+   “How will you get them?” she asked.
+   “My father says they will come.”
+   She studied the fences. “You understand why that sounds impossible?”
+   “I understand.”
+   A fox slept beneath a water trough. Beyond it, two goats chewed the loose end of a rope. Nothing in the scene explained the silence that seemed to gather around the buildings. The animal houses were not quiet because animals made no sound. They were quiet in the way a room became quiet when someone had stopped shouting.
+   Kezia, Ham’s wife, sat beside an injured ewe, cleaning a cut along its leg. Mara crouched to help. The ewe pushed its damp nose into her sleeve.
+   “People think keeping animals means liking animals,” Kezia said. “Mostly it means doing work after you stop feeling like doing work.”
+   She spoke without looking up. Her sleeves were stained. On the bench behind her lay an expensive wrist device with a shattered face.
+   “What happened to that?” Mara asked.
+   “I threw it against a wall.”
+   “Why?”
+   “It played a recording of my sister telling me I was ruining my life. Every time I tried to silence it, another relative called.”
+   Mara understood that more easily than anything Noah had said.
+   They spent an hour cleaning the ewe’s wound, then sterilizing the tools. Through the open door, Mara watched Noah helping a young laborer straighten a crooked brace. No one knelt when he passed. No strange light gathered around him. She could imagine him mistaken. She could no longer imagine him ridiculous.
+   An enclosure near the orchard held a wolf with a healing shoulder. It had been brought weeks earlier by a farmer who found it caught in a wire snare. Mara had seen wolves behind exhibition glass, where their habitats were carefully lit and an explanatory voice told visitors what to feel. This one stood in plain shade, watching her without assistance from a narrator.
+   Kezia brought fresh water and asked Mara to stay outside the rail. The wolf’s stillness did not mean tameness. Its eyes followed every movement of her hands.
+   “Will it stay?” Mara asked.
+   “If it leaves, it leaves. We’re helping it heal.”
+   The answer surprised her. So much in the city had to justify itself by remaining useful to whoever paid for it.
+   Near the gate, a woman arrived leading a boy in a stiff school uniform. The boy wanted to see the ark. His mother wanted to prove that the class rumors were nonsense. She had brought a measuring device and a list of questions copied from a debate channel.
+   Noah answered her for nearly an hour. When he did not know something, he said so. The woman marked those answers with visible satisfaction. Mara recognized the gesture from her own department, where admitting a limit often became evidence against the person honest enough to name it.
+   The boy wandered toward the wolf enclosure. Kezia intercepted him gently and showed him how to stand without alarming the animal. He obeyed, fascinated. Then he asked whether animals understood when people were being cruel.
+   “Sometimes they understand before we do,” Kezia said.
+   His mother called him back. She had finished her questions and intended to leave before anyone accused her of being persuaded. The boy asked whether they could return. She said they would see.
+   Mara walked them to the gate. The woman lowered her voice. Her husband worked in the western extraction district. She had seen him arrive home with burns he said were routine. She wanted to know whether Mara had heard of problems there.
+   “Yes,” Mara said.
+   The woman’s grip tightened on the boy’s shoulder.
+   “Serious problems?”
+   “Yes.”
+   For a few seconds she looked past Mara toward the ark. Then she explained that her family could not live according to every rumor. They had obligations, and her husband would know if the danger were real. She thanked Mara for being courteous, as though courtesy had been the subject of their conversation.
+   After they left, Mara remained by the fence. She recognized the woman’s habit of talking herself back toward safety. She had used it on the hospital roof. She would use it again before she was finished choosing. It was easier to despise disbelief from a distance than to stand close enough to hear the responsibilities that gave it a reasonable voice.
+   At midday, Iven filmed the feed lift working. It had jammed twice before he corrected the sensor, which made him visibly happy. He liked solving something that remained solved.
+   “You should build a public information channel,” he told Noah over lunch. “Real images. No speeches. Show the water storage, the structure, the airflow. People respond to evidence.”
+   “Would you help?” Noah asked.
+   Iven opened his mouth and stopped. He had expected resistance. Resistance would have let him leave feeling clever.
+   “I could put something together.”
+   They walked the upper deck afterward. Mara held the camera while he spoke with Noah. Iven asked about the wood, the pitch, the dimensions. Noah answered the practical questions practically. When asked who had given him the instructions, he answered as simply as before.
+   “God.”
+   Iven looked toward the camera. Mara did not switch it off.
+   On their way back, a small brown bird landed on the rail of the cart. It remained there even when the motor started. A second bird joined it. For almost a kilometer they rode with their feathers pressed tight, staring ahead.
+   “They want a better tomorrow,” Iven said.
+   But he said it softly.
+   That evening, Mara reviewed the footage. Near the end, the camera had been left running on a table. Noah was not aware of it. He stood alone beside the great door, one hand resting against the timber, his head bowed.
+   She could not hear the words he spoke. She heard only the workshop tools in the distance and the heavy breath he took before going back to work.
+   She called Japheth.
+   “I want to see you,” she said.
+   “Tomorrow?”
+   “Now.”
+Chapter 6 The Things People Choose
+Japheth met her at the old canal where they had first kissed. A tram line crossed overhead, but the path beside the water was too narrow for vehicles. They had once spent an entire afternoon there planning a life with room for a workshop, a kitchen, and no furniture that talked.
+   Tonight, she told him everything she had found underground.
+   He listened. When she finished, he asked whether she had told anyone outside the department.
+   “My father knows. Sered knows. They’re preparing a pressure release.”
+   “Will it work?”
+   “It could help. It could also make the western fault worse. The readings don’t agree with the model.”
+   Japheth picked up a fallen leaf and turned it between his fingers.
+   “Do you want me to say the model is wrong because my father is right?”
+   “No.”
+   “Good. I wouldn’t know how.”
+   She let out a breath she had been holding too long.
+   Across the canal, an apartment window opened. Somebody shook a cloth into the evening. An ordinary household, ordinary crumbs, ordinary light. Mara wanted to inhabit that ordinariness so badly it hurt.
+   “What if nothing happens?” she asked. “What if your father is wrong, and you spend your whole life waiting beside a boat?”
+   “Then I’ll have work to answer for.”
+   “And what if he’s right?”
+   Japheth did not answer at once.
+   “Then I’ll wish I had asked you better,” he said.
+   He reached inside his coat. Mara expected a ring. Instead he gave her the little brass latch they had bought for their imaginary workshop. She remembered laughing in the hardware stall because they did not yet have a door.
+   “I kept this,” he said. “Not because I thought it would persuade you.”
+   She held it against her palm. The edge had been polished by his handling.
+   “I can’t marry a warning,” she said.
+   “I’m asking you to marry me.”
+   The distinction had become difficult for both of them. They sat until the trams thinned overhead and the mist began gathering beside the water.
+   When Mara returned home, her father was waiting in the kitchen. He had silenced the wall. Two cups stood on the table. He had made the tea himself, too strong as usual.
+   “Your mother liked him,” he said.
+   Mara sat down.
+   “She liked everybody.”
+   “Not everybody. She was kind to everybody. That isn’t the same thing.”
+   For a while they drank without speaking. Then Oren admitted that the pressure release was a political decision already announced privately to the Council. He had recommended more monitoring. Sered had recommended confidence.
+   “You could resign,” Mara said.
+   “And leave it to someone who doesn’t know where the danger is?”
+   “You could tell people.”
+   “Tell them what? That their power network may be unstable? They’ll hoard, riot, flee. We could kill people with an incomplete sentence.”
+   It was a reasonable argument. It was also the argument he had made for every delay.
+   “And if silence kills them?”
+   Oren stared into his tea. “You think I haven’t asked myself that?”
+   She wanted to say she knew he had. She wanted him to ask himself aloud, where someone might hear.
+   Instead she put the brass latch on the table.
+   Her father touched it with one finger.
+   “You’ve decided.”
+   “I’ve decided who I love. I’m still frightened about everything else.”
+   He gave a tired smile. “That sounds more like marriage than most people expect.”
+   During those three days, Mara and Japheth took apart the life they had once imagined. Their planned apartment was released to another tenant. The furniture account was canceled. A cupboard they had chosen together remained displayed in a showroom, available for someone whose future still needed a cupboard.
+   They went there to collect their deposit. The salesman remembered them and tried to preserve the sale by offering a discount. He spoke warmly of young couples and beginnings. Japheth stood beside Mara while she explained that they could no longer use it.
+   “Smaller home?” the salesman asked.
+   “Very different home,” she said.
+   Outside, they stopped at a food stall and shared a bowl because neither wanted to spend the returned money. They watched shoppers pass carrying wrapped purchases. Mara had expected surrendering the apartment to feel noble or terrible. Mostly it felt unfinished. She could still picture herself opening the cupboard.
+   “Will we ever have a room that isn’t inside the ark?” she asked.
+   “I hope so.”
+   “Describe it.”
+   Japheth hesitated. Then he described a low roof, a door facing morning light, and a workbench where nobody had to clear tools away before supper. She added shelves. He added a stove. She said the stove should not have a voice.
+   They laughed. Their imagined house returned in a different shape, less certain and somehow more their own.
+   That evening, Oren asked Japheth to visit his workshop. Mara found them examining a roof joint. Her father was criticizing the angle. Japheth was defending it with a patience she knew she did not possess. On the bench between them lay an old wooden plane that had belonged to Oren’s father.
+   “It works without power,” Oren said.
+   Japheth looked at him, then at Mara. He understood the gift as she did: her father was preparing for a possibility he still would not speak of as real.
+   “Thank you,” he said.
+   “Keep the edge covered. And don’t let my daughter use it as a hammer.”
+   “I only did that once,” Mara said.
+   “You were very committed to it.”
+   For an hour, the three of them worked on a sample joint. Oren explained why a roof could look firm while transferring force badly. Mara watched Japheth absorb the lesson. Her father’s hands steadied when they had timber to occupy them.
+   Before they left, Oren asked Japheth to keep Mara warm if the vessel traveled into colder country. The request was so ordinary that it nearly hid the fear beneath it.
+   “She can hear you,” Mara said.
+   “I know.” He kissed her cheek. “Let an old man ask for something practical.”
+   The ceremony took place three days later in the orchard beside the ark. There were no suspended gardens, no broadcast, no hired audience. Iven came in his best coat and filmed it with a visible camera. Oren stood beside Mara, his work phone turned off.
+   Noah spoke a blessing. Adah wept openly and handed her handkerchief to Kezia, who had begun before her. Japheth’s fingers trembled when he took Mara’s hand. It steadied hers.
+   Afterward they ate beneath trees still wet from the morning dew. Iven played a song their mother had recorded years earlier, but only once, and only after asking.
+   Oren closed his eyes while it played.
+   Mara looked at the ark beyond the orchard. It was ugly from this angle, enormous and unfinished, blocking part of the hill. For the first time she did not wish it smaller.
+   That night she and Japheth fitted the brass latch to the door of a sleeping compartment.
+   They had finally found a door.
+Chapter 7 The Release
+The Council called the operation a restoration of balance.
+   At six in the morning, valves beneath the western districts would open in sequence, venting pressure into abandoned extraction chambers. The public announcement described a routine improvement and showed a drawing of smiling engineers. No one in the drawing was sweating.
+   Mara watched from the central control floor. She had stayed with the department after her wedding because she could still help there. Her father had not asked her to choose between his work and her husband. That was one of the kindnesses that would later hurt to remember.
+   The first valve opened.
+   Pressure fell in Shaft Three. Technicians applauded once, tentatively. The second valve opened. Shaft Four dropped as expected. On the wall, the city’s power output climbed into the green.
+   For twelve minutes, they appeared to have been right.
+   Then the temperature at Shaft Seven rose twenty degrees.
+   “Hold the sequence,” Mara said.
+   The supervisor glanced at Oren. Oren was already leaning toward his console.
+   “Hold,” he said.
+   Valve Three had received an automatic command. It began to open before the stop instruction reached it.
+   Deep below Enoch, something broke with enough force to make every monitor on the control floor jump in its mounting.
+   There was no explosion aboveground. No dramatic burst of flame. Instead, a section of road beside the western market lifted slowly, as if a giant hand were pushing a sheet from beneath. Vehicles tilted. One overturned. The pavement opened along a white seam, and steam poured out.
+   The public cameras showed people running through falling dust.
+   Mara heard the supervisor repeat, “Close it,” to a valve whose position indicator had stopped moving.
+   Oren ordered a manual isolation. Neri and two others were sent down with breathing gear. Mara followed them to the lift.
+   Her father caught her arm.
+   “You stay here.”
+   “They need someone who knows the new controllers.”
+   “They need someone on the surface who can cut power if the gear fails.”
+   She hated that he was right.
+   At the lower station, Neri’s camera showed a passage filling with vapor. Visibility shrank until she could see only the blue line of his breathing mask. His voice remained irritatingly calm.
+   “Manual wheel is intact. Getting to it.”
+   Mara guided him through a junction she had memorized from diagrams. Another vibration threw his camera sideways. Someone shouted. The image filled with gray water.
+   “Neri?”
+   He coughed. “Still here.”
+   He was waist-deep now. The water should not have been there. The temperature sensor on his suit began alarming. He silenced it because it made hearing difficult.
+   Mara gave him the bypass code. He repeated it incorrectly. She repeated it slowly. The manual wheel appeared in the camera, black and enormous. Two gloved hands caught its spokes.
+   For thirty seconds the picture hardly changed.
+   Then the valve indicator on her console moved.
+   Pressure fell. The shouting eased. In the western market, steam continued rolling along the street, but the rupture stopped widening.
+   Mara almost cried from relief.
+   “Return now,” she said.
+   Neri turned toward the passage. The camera showed a stairwell where the bottom steps had disappeared.
+   “Need the lift kept at Twelve,” he said.
+   She checked its location. It was rising.
+   Security had recalled it automatically when the flooded-level alarm triggered.
+   She overrode the recall. Access denied. She used Oren’s credentials. Access denied. The lift belonged to emergency control now, and emergency control had decided no one should descend into the flooded level.
+   “Dad.”
+   Oren was beside her immediately. He entered a Council override. The lift stopped. Started down.
+   On the screen, Neri’s camera went dark.
+   She said his name until her father put a hand over the microphone.
+   They recovered one of the three technicians. He had found a service ladder. Neri and the second worker had not.
+   Neri’s wife came to the control building before anyone from the department reached her. A neighbor had seen the emergency transports and told her that the monitoring station was involved. She stood at the public desk wearing the coat she used for shopping. In one hand she held a bag containing the meal Neri had forgotten that morning.
+   Mara saw her from the lift. She stopped so abruptly that Oren almost walked into her.
+   “Is he still down there?” the woman asked.
+   Mara looked toward her father. He moved beside her, but this was not a conversation she could let him conduct in her place. Neri had followed her instructions. His last words had come through her headset.
+   “I’m sorry,” she said. “They couldn’t reach him.”
+   The woman stared at her. “Then keep trying.”
+   “They are.”
+   “Then why are you sorry?”
+   Mara had no word sufficient to cross the distance between what each of them understood. She asked whether they could sit down. The woman refused. She held the meal bag tighter, as though setting it down would acknowledge that nobody needed its contents.
+   Oren explained the damaged passages, the flood, the rescue work. He spoke plainly. Mara was grateful for that and angry that plain speech had come so late.
+   At last Neri’s wife sat. She asked whether he had been frightened. Mara said his voice had stayed calm. She did not say that his suit alarms had been screaming. She did not know whether kindness excused leaving that out.
+   “He was always calm when something broke,” the woman said. “It used to annoy me. I’d be worried about the roof, and he’d start asking which tool I’d misplaced.”
+   Mara remembered the cloth wrapped around the hot pipe. She described it. Neri’s wife listened, her eyes fixed on the bag.
+   “He noticed things like that,” she said.
+   A personnel officer approached with a tablet and began explaining emergency benefits. Oren told him to wait. For once, the department allowed grief to exist before requiring a signature.
+   When the woman left, she gave the meal bag to Mara.
+   “You need to eat if you’re going to keep looking,” she said.
+   Mara took it because refusing would have required another decision from someone who had already made too many. Inside were bread, cheese, and a pear cut into neat quarters.
+   She set the bag beside her console. At the end of the day she carried it home untouched. Only then did she realize that Neri’s last ordinary morning had continued into the afternoon in a bag she could not bring herself to open.
+   That afternoon Sered announced that a successful pressure intervention had prevented a larger incident. He honored two employees whose sacrifice proved the city’s strength.
+   Mara stood in the back of the briefing room. Her boots were wet from the flooded lift when it finally returned.
+   Sered thanked her father personally.
+   Oren did not look at her.
+Chapter 8 The Price of Being Reassured
+The first person arrested after the release was a woman who posted a recording of the road opening.
+   Her image showed a delivery driver trying to pull someone from an overturned vehicle. It also showed a Council transport gliding past without stopping. The charge was the distribution of emergency misinformation.
+   Mara watched the arrest on an unofficial channel while sitting in the hospital corridor outside Oren’s room. He had collapsed during the night. The doctors said exhaustion. He said indigestion. His hands could not hold a cup steady.
+   Iven arrived with clothes and a meal their father would not eat.
+   “You need to sleep,” he told Mara.
+   “So does he.”
+   “Then we can all be sensible at once.”
+   He sat beside her. Across the corridor, a mother argued with a payment terminal. Her child had been burned by steam in the western market. The terminal asked for a supplemental deposit before authorizing the next treatment.
+   Iven stood, tapped his wrist against it, and paid. This time he did not look around to see whether Mara noticed.
+   “I’m cutting the festival film,” he said when he returned.
+   “What?”
+   “The ark footage. I’m putting it out.”
+   She leaned against the wall. “They won’t let you.”
+   “It’s a boat. They let people make jokes about it every day.”
+   For two hours the film survived online. It showed construction, food storage, a repaired feed lift, and Noah answering questions. It also showed the empty collecting cup Mara had filmed beside the hospital.
+   Then Iven’s studio account froze.
+   Then the Council’s legal office called.
+   By evening the footage had been replaced by a notice stating that unverified infrastructure claims endangered public safety. The popular channels showed shorter edits: Noah saying God, Iven looking uncertain, a goat chewing rope.
+   People laughed harder at the goat than they had at the festival actor.
+   After the film disappeared, Iven came to the ark without his camera. He helped Japheth sort spare hinges and said almost nothing for an hour. Mara waited until his hands had found the steady rhythm of ordinary work before asking what the legal office had threatened.
+   “A review of my licensing. Lost contracts. They used the word irresponsible enough times to make it sound like a diagnosis.”
+   “Did you tell them you’d stop?”
+   “I told them I understood.”
+   “Do you?”
+   He put a hinge down. “I understand how easy it is for them. They don’t have to prove I lied. They only have to make people nervous about hiring me.”
+   Mara sat opposite him. Dust moved in the light between them. She had wanted Iven to do something honest with his skill. Now he had, and she did not know how to help with the price.
+   “Keep a copy,” she said.
+   “I did. Several.”
+   “Good.”
+   He looked around the workshop. “You sound as if that changes anything.”
+   “It keeps them from being the only people who decide what happened.”
+   He considered that. Then he asked whether Noah would mind if he installed a local playback screen inside the ark. It would not depend on the city. He could put practical instructions on it, repair diagrams, medical references, family recordings. Mara began listing safe power requirements before she remembered that encouraging him to equip the ark was not the same as persuading him to enter it.
+   They worked on the plan anyway. For that afternoon, the prospect of bringing Iven’s knowledge aboard seemed more important than the risk of mistaking his help for agreement. He built a sturdy little terminal from surplus parts, stripped away every network dependency, and made it open without asking for an account.
+   “You’ve designed a machine that doesn’t need permission to remember,” Mara said.
+   “Try explaining that to my clients.”
+   He loaded the ark film onto it. Noah watched without speaking. When it ended, he thanked Iven and asked whether the workers’ children could have copies showing what their parents had built.
+   Iven promised they could.
+   On his way out, he stopped beside the unfinished sleeping compartments. He inspected Mara and Japheth’s brass latch, tested it, and complained that it squeaked. Then he oiled it from a small bottle in his pocket.
+   “You could stay,” Mara said.
+   He kept his eyes on the latch. “Don’t turn every nice thing I do into an answer.”
+   She nodded, ashamed because he was right. She had begun treating his love as evidence he would eventually choose what she wanted. He kissed her forehead and left. The latch closed silently behind him.
+   Sered asked to see Mara the next morning.
+   His office overlooked the river. A shelf held awards for humanitarian leadership. Beside them was a photograph of his children, ordinary children with uneven teeth. Mara hated noticing that. She wanted him easier to condemn.
+   “Your father has served this city well,” he began.
+   “Then listen to him.”
+   “I do. More carefully than you imagine.”
+   He offered her a seat. She remained standing.
+   “We are constructing protected accommodation in the Crown,” he said. “Independent power, water reserves, medical facilities. Your family will have places.”
+   The Crown was Enoch’s tallest structure. Its upper levels housed the Council and the wealthiest residents. Its lower levels contained the machinery that kept the upper ones comfortable.
+   “For how many people?”
+   “As many as we can responsibly support.”
+   “Give me a number.”
+   “Six thousand.”
+   Enoch held more than two million.
+   Sered folded his hands. “We do not anticipate a citywide disaster. Preparedness is still prudent.”
+   “Prudent enough to reserve yourself a place.”
+   “Yes. And you, and your father, and your brother. I won’t apologize for preserving people capable of rebuilding.”
+   Mara thought of Neri waist-deep in hot water, turning a wheel because she had asked him to. She thought of the woman beside the hospital terminal.
+   “Who decides who is capable?”
+   Sered’s patience thinned. “People who have to make decisions while others criticize them.”
+   He slid a contract across the desk. It authorized her transfer to the Crown’s continuity team. It included silence about restricted monitoring data and prohibited public support of destabilizing movements.
+   “Your husband may accompany you.”
+   Mara looked at the signature field.
+   There it was: a way to keep the apartment, the father, the brother, the familiar future. A way to make Japheth safe without believing Noah. A way to turn uncertainty into a locked door with her name on it.
+   “May I take a copy?” she asked.
+   Sered smiled. “Of course.”
+   Outside his office, she did not tear it up. She carried it home and read every line. Some temptations were too practical to dismiss with a grand gesture.
+   At the ark, Japheth read it beside her.
+   “I won’t go,” he said.
+   She waited for an argument. He offered none.
+   “Will you hate me if I do?”
+   He took a long breath. “I’ll miss you.”
+   It was harder to bear than a threat.
+   That night Mara lay awake hearing the workshop clock outside their compartment. Each small click made another moment in which she had not yet chosen.
+Chapter 9 What the Cameras Could Not Explain
+The animals began arriving on a day so beautiful that later Mara would remember it with anger.
+   The eastern sky was clear. Orchard leaves held the last bright beads of dew. A freight tram moved along the ridge with advertisements for holiday apartments playing on its side. Under it, two great cats walked across the road.
+   Traffic stopped.
+   The cats did not run. They passed a stranded passenger car, climbed the verge, and continued toward the ark. A woman standing beside the car filmed them while whispering words that were not intended for children.
+   By noon, the roads had become a procession.
+   Pairs came from fields, woods, fenced estates, and places nobody could identify. Animals that should have stalked one another traveled without hunting. Some arrived singly and found their counterparts near the gate. Birds settled along the roof in numbers that turned its edges into a living fringe.
+   Mara stood with a scanner in her hand and forgot how to use it.
+   Noah did not look triumphant. He looked overwhelmed by work.
+   “South ramp,” he told Ham. “The larger stalls first. Keep the aisle clear.”
+   The family moved until their clothes stuck to them. Temporary helpers ran carts of bedding. Kezia checked feet and eyes. Tirzah counted stores twice because counting animals had become impossible. Adah brought food to people too busy to stop.
+   Japheth found Mara in the passage beside the lower pens.
+   “You’re bleeding.”
+   She looked down. She had cut her palm on a cage fitting and not noticed.
+   He wrapped it with a strip of clean cloth. Around them, warm bodies breathed and shifted. A little gray creature, hardly bigger than her fist, reached through a mesh opening and curled one paw around Japheth’s finger.
+   Mara sat abruptly on the floor.
+   Until that moment she had kept several explanations alive. Pressure changes. Electrical faults. Sensational rumors. A sincere old man who had built a beautiful mistake.
+   She could still invent explanations for the animals. She could spend the rest of the day arranging them into something familiar. But the effort would no longer be honest.
+   “I’m frightened,” she said.
+   Japheth sat beside her.
+   “Me too.”
+   She called her father. He did not answer. She called Iven. His face appeared beneath a strip of harsh white light.
+   “Are you seeing this?” she asked.
+   “Everybody is seeing it.”
+   “Then come.”
+   “Mara, they’re tracking animal transport records. Some estates reported animals missing before today. It could be organized.”
+   “By whom?”
+   “I don’t know.”
+   “I’m here. Iven, I’m here, and they keep coming.”
+   He looked away from the screen. Someone spoke to him off-camera.
+   “I’m at the Crown,” he said. “They’ve given me a continuity contract. Dad’s here too.”
+   She closed her eyes.
+   “Bring him. Bring both of you.”
+   “We’re safe here.”
+   “You don’t know that.”
+   “Neither do you.”
+   Behind him, a lift opened. Mara could see workers carrying crates past two armed attendants. She thought about the roads outside the ark, crowded with creatures that had no identification, no rank, and no payment accounts.
+   “Can Tavi get in?” she asked.
+   “Who?”
+   “The boy at the festival. Can he get into your safe place?”
+   Iven’s face changed. “Don’t do that.”
+   “Tell me.”
+   He ended the call.
+   Near evening, Sered’s officers arrived at the ark gate. They claimed a concern for escaped predators. Their vehicles blocked the public road, which made the concern harder to believe.
+   Noah went out to them. Mara followed with her work badge visible.
+   The senior officer asked for permits. Noah showed the construction approvals he had renewed year after year. The officer asked for animal import records. Noah said he had none for the animals that had come that day.
+   “You understand how that sounds.”
+   “Yes,” Noah said.
+   A flock of birds passed over the officers and entered through the upper opening. Everyone watched. For several seconds nobody performed authority.
+   Mara showed the senior officer her raw pressure map.
+   “You can take this,” she said. “You can investigate it. But don’t block the road while people can still come.”
+   The officer studied the screen. His mouth tightened. He handed it back.
+   “My family’s in the southern district,” he said quietly.
+   Then he ordered the vehicles moved.
+   After the officers moved their vehicles, the animal procession continued through the gathering dusk. Mara worked at the gate with Japheth, opening a wide path while onlookers argued about what they were seeing. One man insisted that hidden scent devices must be drawing the creatures. A woman asked him how scent could persuade a bird to stop eating a smaller bird. He accused her of trying to embarrass him.
+   Mara knew the temptation. An explanation did more than account for events. It could protect the person explaining them from having to change.
+   A heavy animal paused where a drainage ditch crossed the entrance. Its companion went ahead, then returned. For a few minutes both stood at the edge while the crowd urged them forward. Mara told everyone to step back. She and Japheth laid two planks over the narrow gap. The animals crossed.
+   The incident was practical and mysterious at once. Whatever had brought them here had not made every uneven surface vanish. Their arrival still required people to clear paths, fill troughs, and stop shouting. She found that unexpectedly reassuring. She could accept something beyond her understanding without being asked to abandon the work she understood.
+   A little girl outside the fence asked whether Noah would take her cat. Her father said they were only watching. Mara went to the rail.
+   “If your family comes, tell us what you need,” she said.
+   The father thanked her with the uneasy politeness of a person receiving an invitation he intended to ignore. The girl watched a pair of small spotted animals disappear through the doorway.
+   At the end of the evening, Kezia found the injured wolf standing near its open enclosure. Its healing shoulder had not prevented it from walking toward the ark. Mara kept a respectful distance while it passed. She recognized its eyes. When another wolf joined it at the ramp, the first made a low sound, neither threat nor welcome in any human category. They went aboard together.
+   Mara looked into the now-empty pen. She had grown used to imagining the wolf there because that was where she had first known it. The empty space reminded her how quickly familiarity could become an argument for keeping something in the wrong place.
+   Later, as they washed the day’s dirt from their hands, Japheth asked whether she wanted to discuss the contract again.
+   “No,” she said. “I want to discuss which tools we can bring.”
+   He understood the answer. He leaned against the washstand for a moment, looking so relieved that she realized how much fear he had been hiding to let her choose.
+   That night Mara deleted the unsigned Crown contract from her wrist. She called her father again. This time she left a message.
+   “I’m staying. I love you. Please come.”
+   She could not make the words do more than words could do.
+Chapter 10 The Archive of Small Things
+Mara returned to the apartment for the last time with an empty bag and discovered how little empty meant.
+   Every room offered something she thought she could not leave: her mother’s blue cup, the crooked bookshelf Iven built at seventeen, the coat her father wore when he was still willing to walk to work. There were photographs that existed on the wall and photographs that existed only in accounts she might soon lose access to.
+   She had thought evacuation would be a matter of choosing useful things. Usefulness failed to describe a mother’s handwriting.
+   The kitchen greeted her cheerfully.
+   “Would you like your usual breakfast?”
+   “No.”
+   “You have not eaten adequately today.”
+   “Neither have you.”
+   It paused, searching for a category in which that reply made sense. For the first time in days, Mara laughed.
+   Iven’s room was a nest of cables and half-finished inventions. She found the old recorder inside a tin beside his bed. Their mother’s voice lived there without a network or subscription. Mara played five seconds, heard a breath before a song, and switched it off.
+   She left it where she had found it. It was his.
+   Instead she downloaded their photographs to a small local drive. She took paper, graphite, needles, spare glasses, and a compact set of mechanical tools. The power in the ark would come from limited batteries and whatever small generators they could safely use. Anything that expected the city to exist around it would soon become a beautifully shaped stone.
+   Outside, a broadcast assured citizens that unexplained animal movements were being investigated. It urged calm and warned against abandoning employment obligations.
+   Before leaving the apartment, she stood inside her father’s workroom. The desk was immaculate. Oren had always said a disorderly table made disorderly thought, though he could never explain why her mother’s music room, full of scattered sheets, had produced such good songs.
+   A drawer contained the plans for the city’s first experimental turbine. Mara spread them on the desk. Some calculations were crossed out in her father’s youthful handwriting. Along one margin, her mother had written that he ought to come home before the children forgot his face. Below it he had answered with a small drawing of himself, unmistakable even with no artistic talent.
+   She had nearly forgotten that they had once teased each other. In the years after her mother died, family memory had arranged Oren into the man who worked late and her mother into the woman who waited. Here was evidence of something livelier and more equal. Mara photographed the margin before folding the plans again.
+   She considered taking them. They represented valuable knowledge. They also represented thousands of pages she could not carry. In the end she chose the small notebook Oren had used before his instruments became digital. It showed how to measure simple forces, estimate load, and build with imperfect materials. The turbine plans belonged to a world able to manufacture their parts. The notebook could accompany people who had to begin with stone and timber.
+   Her wrist chimed with an appointment reminder. The city expected her at a quarterly equipment review in twelve days. She dismissed it, then opened the calendar and looked at the ordinary future still waiting there: a dental visit, Iven’s birthday, a discount period for household furnishings. None of the reminders knew the future had become questionable.
+   She canceled nothing. The strange loyalty of leaving those dates intact felt childish, but she let herself keep it. She was already leaving enough.
+   At the doorway she turned off the kitchen’s voice. The wall asked for confirmation. She gave it. Silence filled the room without hostility. For a moment she pictured someone else living there, changing the wall color, disliking the shelf, throwing away the cup she had missed. That would once have been her greatest sadness about leaving a home.
+   She locked the door, not because she expected the lock to matter, but because people learned habits for reasons and could not always choose when to stop having them. Her key remained in her pocket all the way to the station.
+   At the transit station she saw Tavi sleeping beside his sister. Their sack of festival fruit was empty and carefully folded beneath her head.
+   Mara crouched before them.
+   “Where’s your family?”
+   Tavi answered with the caution of a child accustomed to questions that ended badly. Their grandmother cleaned rooms in the southern lodging blocks. Their father was gone. Their mother had been taken away after a debt hearing. Tavi did not know where.
+   “Can you take me to your grandmother?”
+   The lodging house smelled of old cooking oil and cleaning solution. The grandmother, Letha, wore a uniform with somebody else’s name on it. She listened while Mara explained the ark, the animals, and the pressure readings.
+   “A boat in an orchard,” Letha said.
+   “Yes.”
+   “And you’re asking us to go there.”
+   “Yes.”
+   Letha looked at the children. Then at the clock. Her next shift started in twenty minutes. If she missed it, she could lose the room. The room was poor, but it had a lock. She had struggled for that lock.
+   “Can we go tomorrow?”
+   Mara did not know how to answer. She did not know the number of tomorrows remaining.
+   “Go today,” she said.
+   She paid for transport and stayed until the three of them were seated inside. Then she watched the vehicle leave for the western road. Tavi waved once, surprised to find himself the person being sent somewhere better.
+   Only afterward did Mara let herself feel hopeful.
+   At the Crown, her father met her in a public lobby. He looked healthier than he had in the hospital. Someone had pressed his coat. For an instant she was a child again, relieved that her father had returned to being powerful.
+   Then he asked her to reconsider.
+   “The foundations go into bedrock,” he said. “The upper accommodation is isolated from the extraction network. We have aircraft on the roof.”
+   “Where would they fly?”
+   “There are higher regions.”
+   “And if those are covered?”
+   “Mara.”
+   He said her name the way he used to say it when she feared a dark corridor.
+   “I’m not asking you to stop being an engineer,” she said. “I’m asking you to stop treating everything you can’t control as something that cannot happen.”
+   He stepped back as if she had struck him.
+   She took his hand before he could retreat farther.
+   “I want you alive.”
+   “So do I.”
+   For a terrible moment their wishes sounded identical.
+   She gave him a printed map to the ark because network guidance could fail. He folded it neatly and put it in his inner pocket. She watched him do it. The act would become one of the small things she remembered when the larger things were gone.
+   On the tram west, she opened her bag to check the tools.
+   Her mother’s blue cup lay wrapped between two shirts.
+   She did not remember deciding to take it.
+Chapter 11 Seven Days
+When Noah told them to prepare to enter, the workers fell quiet one by one.
+   The ark was ready in the practical sense. Its stores were secured. Its seams were sealed. Its animals were settling into their spaces with an obedience none of the family understood. But ready was a word the human mind refused to extend to what Noah said next.
+   “Seven days.”
+   Mara looked at the orchard outside the hatch. A man was repairing the work fence where the crowd had broken a post. Seven days had always meant enough time to order a part, postpone a visit, or forget an argument. Now the words gave the end of the world the size of a working week.
+   Noah went out and spoke again. People gathered. Some filmed him. Some argued about measurements. A woman asked whether animals had more value than humans. Noah told her the invitation was for people too. She said she would not bring her family into a wooden box on the advice of a stranger.
+   Mara could not blame her for the fear. She could only hear how fear changed its name when it defended the familiar.
+   On the first day, Letha arrived with Tavi and his sister. Mara hugged the children so tightly that Tavi wriggled away, laughing. Japheth carried their bags inside. Adah showed them a temporary room.
+   For two nights they stayed.
+   On the third morning, a lodging administrator sent Letha a notice threatening reassignment of her room. At the same time, the Council announced free southern-district transport to its emergency reception centers. The notice used the word guaranteed three times.
+   Letha asked to speak to Mara alone.
+   “I have to protect them,” she said.
+   “You can protect them here.”
+   “From what? I look outside and the sky is beautiful.”
+   Mara showed her the pressure records. Letha looked at them politely. Numbers from underground had no place in the life she had spent managing aboveground.
+   “At the center they’ll have doctors,” she said. “They’ll have power. If nothing happens, we can come home.”
+   “And if it does?”
+   Letha’s eyes filled. “Don’t make me feel wicked for wanting something solid.”
+   Mara felt the sentence go through her. She had wanted the same thing.
+   They argued for an hour. Adah came and spoke gently. Noah explained the warning. Tavi stood in the passage listening, clutching the little wooden animal Ham had carved for him.
+   At last Letha packed.
+   Mara followed them to the road. She begged without dignity. She offered to fetch a doctor. She offered to go to the lodging house and collect anything they had left. None of it altered the choice Letha had already made in order to endure making it.
+   “We’ll visit after the week,” Tavi said.
+   Mara could not answer him.
+   The transport doors closed. Through the window, his sister pressed her palm to the glass.
+   That evening Mara found Noah alone beside the outer wall.
+   “Why don’t you make them stay?” she asked.
+   He looked at her with such sorrow that her anger almost deserted her.
+   “With what?”
+   “Your certainty. Your authority. Anything.”
+   “They have heard me.”
+   “Hearing isn’t enough.”
+   “No,” he said. “It isn’t.”
+   She wanted more from him. A formula. A sentence nobody could refuse. A way to turn love into a force strong enough to carry someone through a doorway.
+   He had none to give her.
+   On the fourth day, her father visited. He brought a box of medical supplies and a hand-operated charger. He inspected her tools, repaired a loose hinge, and avoided looking at the animals for too long.
+   Japheth asked him to stay.
+   “I have obligations,” Oren said.
+   “You have a daughter.”
+   Oren’s face hardened. Then it softened again.
+   “I know.”
+   He kissed Mara’s forehead and left before supper.
+   Iven spent the fourth evening at the Crown editing an emergency information sequence. Sered wanted the images reassuring but not frivolous. The system would show reserves, reinforcement points, medical capacity, and the calm movement of staff. Iven had filmed most of those things himself. They were real. Their reality made the omissions easier to ignore.
+   A coordinator asked him to remove a shot of people waiting outside the admission desk. Their faces suggested disorder. He replaced it with a clean hallway. Another asked whether the film could mention that accommodation was subject to capacity without emphasizing the limitation. He adjusted the phrasing. By midnight, his sequence was accurate in detail and misleading in impression.
+   He sat watching it loop after the others left. Then he opened his ark film in a separate window. There was Noah explaining what he believed would happen. There were imperfect pens, workers in dirty clothes, and no guarantee visible except that they had built what they said they were building.
+   Oren came in with two cups of tea. He looked at the two screens and understood what his son had been comparing.
+   “You could go to her,” he said.
+   Iven turned. “Would you come?”
+   Oren put the cups down. “They need me here.”
+   “Then why wouldn’t they need me?”
+   “It isn’t the same.”
+   “Explain how.”
+   Oren did not. He had spent years teaching his children that responsibility meant remaining where their skill was useful. Now he wanted an exception for his son without having accepted one for himself.
+   Iven shut both films. He said he would visit Mara the following morning. Oren said he would arrange a vehicle. They began talking about routine work, each relieved to postpone the difficult part while believing the postponement was a plan.
+   Before sleeping, Iven took the old recorder from his coat. He found the lesson in which his mother kept laughing when he entered early. He had listened to it so many times that he could hear the laugh before it came. Then he heard something he had ignored for years.
+   His mother said, very gently, “You don’t have to wait until you’re perfect to start.”
+   He copied the song and sent it to Mara. He nearly added a message saying he would come. Instead he wrote that she should have a copy too. It seemed safer to promise only something he had already done.
+   On the fifth day, Iven sent her a recording of their mother. He said she should have a copy too.
+   On the sixth, the birds outside the city turned west in such numbers that the air seemed to move in sheets.
+   On the seventh, the last worker collected his wages and went home.
+Chapter 12 The Door
+Morning lay over the orchard without dew.
+   Mara noticed it while carrying the last water container up the ramp. The grass did not wet her boots. The leaves had a dry, papery sound. Far off, the city’s collector towers shone beneath a clear sky, holding out their empty surfaces.
+   She checked her wrist. No message from Iven.
+   Noah called them inside. The eight of them assembled near the lower passage: Noah, Adah, Shem, Tirzah, Ham, Kezia, Japheth, and Mara. They looked like a family about to begin a difficult journey. No one looked equipped to become what remained of humanity.
+   Mara asked for a little more time.
+   Noah nodded, but his eyes turned toward the door.
+   She called Iven. This time he answered from his studio inside the Crown. Behind him, a screen displayed weather information with no category for what she feared.
+   “Come now,” she said.
+   He had heard the sentence so often that it had begun to lose its edges.
+   “I can’t just leave the team.”
+   “You can.”
+   “They need me.”
+   “I need you.”
+   He looked down.
+   “You always say it when you’ve already chosen somewhere I can’t follow.”
+   Mara leaned against the doorpost. The wood was warm beneath her shoulder.
+   “You followed me out of the apartment when we were children. You followed me across the tram bridge when Dad said not to. You can follow me here.”
+   “That was different.”
+   “Yes. This matters more.”
+   She turned the screen so he could see the open door, the ramp, the road beyond it.
+   “Look. It’s open.”
+   For the first time he seemed to understand that her urgency had a shape. A door could be open. A door could stop being open.
+   “I’ll talk to Dad,” he said.
+   “Don’t talk. Come.”
+   The connection wavered. She heard him say her name, then the call failed. When she tried again, the network returned a busy notice.
+   Mara walked onto the ramp.
+   Japheth came after her but did not take her arm. Beyond the fence, people watched from the road. A few called to Noah. Others demanded to know what performance was planned. Someone was selling meals from a cart.
+   Mara saw a transport slow near the entrance. For one hopeful second she thought it was Iven. It continued toward the city.
+   She stood there long enough for the sun to shift across the ramp boards.
+   “Mara,” Japheth said.
+   She knew the sound in his voice. She had heard it at the canal when he asked whether they could begin again.
+   She stepped inside.
+   Behind her, the great door moved.
+   Noah was not at its mechanism. Neither were his sons. The door rose with a slow, immense certainty, drawing the ramp upward, narrowing the orchard into a bright strip. A cry went up outside. Mara turned and ran two steps toward the opening before Japheth caught her.
+   Not to imprison her. To keep her from being crushed.
+   For an instant she saw the road, the meal cart, a man dropping his recording device. Then timber met timber.
+   The sound passed through the ark from one end to the other.
+   Silence followed, broken by an animal shifting against a partition.
+   For several minutes nobody spoke. The door occupied one end of the passage, a wall where the world had been. Light still entered from above, but the absence of the open entrance made the ark seem smaller. Mara could smell the eight human bodies, the animals below, the resin, and the last air that had come in from the orchard.
+   Ham tried the mechanism because trying was easier than standing still. Shem inspected the frame. Noah watched their hands without reproaching them. The fittings had been designed for a great weight, but they did not explain the way the door had moved without anyone using them.
+   At last Adah told them that lunch was ready. The announcement sounded absurd. Then Mara realized what Adah was offering: a task whose outcome could still be understood. They could sit at a table. They could eat. The table would not answer their questions, but it would keep their bodies from adding hunger to fear.
+   Mara refused at first. Japheth brought her a piece of bread and sat near enough that she did not have to choose between accepting it and leaving the door. She took one bite. Outside, somebody laughed harshly. Someone called Noah a coward. The insults were familiar sounds, and Mara found herself almost grateful for them. Familiar anger meant they had not yet crossed into terror.
+   She touched the wood. Its grain had been worked smooth at the height of a human hand. Doran had done that section, she remembered. He had complained that nobody would admire the finish on the inside of a freight-sized door. Japheth had told him people would touch it. Doran had continued sanding.
+   Now Mara ran her fingers over his work while wondering whether he was home with his children. The ark held traces of people who had helped build a thing they would not use. Every good joint, every properly hung hinge, every sealed seam was an ordinary act whose consequence had become extraordinary.
+   Tirzah came with a small bag of medicinal cloths. She examined Mara’s injured palm and replaced the bandage. Neither said anything about why the hand was bleeding.
+   Through the upper opening a warm breeze passed. Somewhere on the roof, birds shifted. The waiting world sounded indecently peaceful. Mara had thought a closed door would bring certainty. Instead it had removed the last practical thing she could do to fetch someone she loved.
+   Mara stared at the sealed door. Her screen had found a signal again. Three messages waited. One from Iven said he was trying to get transport. One from her father said he would call as soon as the Council meeting ended. The third was an advertisement promising next-day delivery.
+   She slid to the floor.
+   Japheth sat beside her, holding her as she tried the door’s interior fittings with hands that could not accept what her eyes had seen.
+   “We can open it,” she said.
+   Noah knelt nearby. He did not tell her to stop crying. He did not ask her to be grateful.
+   She tried the fittings again.
+   Outside, someone struck the wood. Then another. The blows sounded angry rather than frightened. Water had not yet fallen. The people outside still believed they were protesting an insult.
+   Mara’s screen lit with Iven’s face.
+   “I’m on my way,” he said.
+   She could not speak.
+   He saw her expression. Behind him, the city moved through a vehicle window, bright and intact.
+   “Mara?”
+   Her mouth formed the words twice before they came.
+   “The door is closed.”
+Chapter 13 The First Drop
+Iven’s transport stopped six kilometers from the ark.
+   The driver blamed a traffic restriction, then a guidance fault, then the passengers themselves for choosing this road. Beyond the windshield, a line of vehicles stretched toward the hills. Some carried people going to see the animals. Others were returning from the worksite, offended that Noah had withdrawn behind his door.
+   Iven got out.
+   He had brought no food, no coat, and no proper bag. In his pocket were the recorder containing his mother’s voice and the small tools he carried because machines always broke at inconvenient times. He could walk six kilometers. He could climb the ramp. He could insist that Mara speak to him through the door until someone opened it.
+   He began walking.
+   Halfway along the stopped line, a woman extended her hand above a vehicle roof.
+   “What was that?” she said.
+   Iven felt something strike the back of his neck.
+   Cold. Small. Entirely ordinary in sensation, entirely impossible in origin.
+   Another drop marked the dust beside his shoe. Then several more.
+   People emerged from vehicles. They held out their hands, laughing uncertainly. A child opened her mouth and tried to catch the falling water on her tongue. A man said the collector towers must be venting. Someone else pointed out how far away the towers were.
+   The child catching drops was laughing now. Her father lifted her onto his shoulders, both of them wet enough to find the sensation ridiculous. The people around them began offering explanations to one another. Some were already making jokes. A woman held up a cup and announced that at least water bills would fall.
+   Iven wanted to warn them. But he had spent so long using his voice to make people comfortable that he did not know how to make discomfort sound trustworthy.
+   “Get off the low road,” he said.
+   The woman with the cup turned. “Where should we go?”
+   He pointed toward the hill. There were houses along it, their terraces higher than the road. The recommendation was useful and entirely inadequate. He could not give them the answer he had refused when there had been time to act on it.
+   A truck driver started moving passengers toward the verge. Somebody accused him of causing panic. Somebody else said the falling water was probably a new city project that had not been announced properly. The thought gained supporters because it allowed them to be irritated instead of afraid.
+   Iven helped an older man step out of a vehicle. The man’s navigation system was still insisting that he continue west for a pleasant afternoon outing. Its cheerful directions played between drops striking the roof. Iven turned it off.
+   For a moment he saw how absurd the road had become: machines continuing their little commands, people continuing the little habits that had served them yesterday, while the conditions beneath every command and habit were disappearing. His work had made worlds inside screens. He had never imagined the physical world changing more quickly than a screen could represent it.
+   He told the driver to move people higher and keep moving. Then he began toward the ark again. He felt ashamed of leaving, ashamed of staying for the seconds he had already spent, ashamed of not being able to divide himself into enough useful bodies.
+   The small tools in his pocket knocked against his leg. He had carried them through parties and meetings because there was always a machine he could fix. Now he wanted a wrench large enough to hold the day together.
+   Above the road, unfamiliar shadows spread across the trees. The laughing child fell silent.
+   Iven looked up.
+   The clear sky was disappearing. A gray mass gathered across the west with a speed that made distance difficult to judge. Its underside folded into shapes darker than any mist he had seen. Light moved inside it, brief and white.
+   He ran.
+   Within the ark, Mara heard the first drops as tiny ticks above her head.
+   She looked at Japheth. He was looking upward too.
+   For years, people had imagined a flood as water rising slowly along a riverbank. Noah had spoken of rain and the deep breaking open, but the imagination used what it knew. The little ticks gave Mara something new to know.
+   The ticks became a pattering. The pattering became a continuous rushing sound, interrupted by heavy blows where water struck the roof fittings. Air moved through the ventilation slots smelling sharp and strange.
+   Ham climbed to the upper walkway. He came down with his hair wet and his mouth open.
+   “It’s falling everywhere.”
+   Noah closed his eyes.
+   Outside, the blows on the door changed. Mara heard voices now, words she could distinguish. Open. Please. Noah. Open.
+   She reached the door before Japheth could stop her. She shouted back that they were trying. She did try. She pulled until her injured palm reopened and blood marked the fitting. She brought tools. She struck at an interior brace with a hammer until Shem caught its handle.
+   “You’ll hurt yourself.”
+   “They’re out there.”
+   “I know.”
+   “Then help me.”
+   Shem tried the fittings. So did Ham. The door held. They had shut doors all their lives. They had never stood before one whose closing had not belonged to them.
+   Iven reached the work fence in a storm that turned breathing into effort.
+   The orchard was full of people. Water ran down the ramp supports and around their ankles. He saw the giant door, sealed above the rising mud, and thought he had never hated anything so intensely.
+   He pushed through the crowd.
+   “Mara!”
+   His wrist found no network signal. He slapped the wood with both hands.
+   “Mara, I’m here!”
+   Inside, she stopped moving.
+   She could not be sure she had heard him. There were too many voices. She pressed her face near a seam and shouted his name. Through the wall came a muffled answer.
+   She shouted again.
+   The ground shook.
+   It was not the festival tremor. The ark moved sideways on its supports. Down below, metal bowls jumped against their racks. The animals cried out. A deep crack sounded beyond the orchard, so loud that for a moment the rain vanished beneath it.
+   Iven turned.
+   A line of soil across the lower field rose and split. Dark water burst through it, carrying stones, roots, and pieces of a buried road. He had seen simulated disasters in the studio. None had taught his body what to do when the earth itself stopped being ground.
+   People fell. Others ran toward the ark as if proximity were safety. The flood crossed the field faster than Iven could cross the yard.
+   He climbed a scaffolding frame beside the hull.
+   From there he saw the city’s eastern towers through the rain. Lights blinked out in districts. A white plume rose near the river, then collapsed into a wall of spray. The transport line had become a line of abandoned roofs.
+   His wrist connected for three seconds.
+   He called Mara.
+   Her face appeared, streaked with tears and pitch from the door fittings.
+   “I’m outside,” he said.
+   “I hear you.”
+   For a moment they were children again, speaking through the wall between their bedrooms after lights-out.
+   “I should have come,” he said.
+   She tried to answer. The image broke into squares.
+   Then the water struck the scaffolding.
+Chapter 14 The Crown
+The scaffolding did not collapse at once. It bent, tore from its moorings, and drifted against a floating freight container. Iven jumped because the container offered something flatter beneath his feet. He caught an edge, slid, and found himself hanging above water that carried broken fencing like straw.
+   A stranger pulled him up.
+   The container struck a tree. They climbed onto a maintenance platform wrapped around its trunk. More people joined them. Nobody asked who had paid for anything.
+   The ark was rising.
+   Its lower walls, which had seemed rooted in the earth, separated from the yard. Water closed around its supports. The great vessel shifted, leaned, and settled into a motion that looked impossible for something so large. Iven watched his sister leave him without ever seeing her.
+   He tried calling again. Nothing.
+   Far off, an emergency aircraft emerged through the rain. It hovered unsteadily over the road, lowering a rescue line. People rushed beneath it. The pilot moved away from the trees before dropping the line again.
+   Iven helped the smallest people onto it first. The stranger who had pulled him up went next, carrying an unconscious woman across his shoulders. When Iven finally climbed, the platform beneath him had begun to splinter.
+   Inside the aircraft, nineteen wet passengers sat among luggage belonging to people who had not boarded. An attendant said they were returning to the Crown. Someone cheered.
+   Iven looked through the window. The ark passed below in a pale gap between curtains of water. It had no running lights bright enough to advertise hope. It simply remained.
+   At the Crown, Oren stood in the arrival bay with a towel and a face older than it had been that morning.
+   He held Iven so tightly that the towel fell.
+   “Your sister?”
+   “Inside.”
+   Oren closed his eyes. When he opened them, he looked ashamed of the relief he could not avoid.
+   The Crown’s lower floors were filling with people who had arrived before the entrance sealed. Many more waited outside. Security had stopped checking invitations after the ground ruptures. Now the issue was space, then food, then the stairs, because half the lifts had failed.
+   Sered broadcast from an interior room.
+   “Remain at your assigned levels. The Crown was designed to withstand extreme conditions. Our engineers are managing the event.”
+   Oren silenced the broadcast in the bay.
+   “We need to move the lower levels,” he told a security supervisor.
+   “The director said remain assigned.”
+   “Then the director can come down and get wet.”
+   Iven followed his father into a stairwell. Together they carried supplies upward while water entered through the transport tunnels below. Oren directed an evacuation by physical level rather than social rank. For once, he no longer waited for permission to name danger.
+   At the medical floor, Iven saw Letha.
+   He recognized Tavi first. The boy stood beside a line of cots, holding a small wooden animal. His sister slept wrapped in two towels. Letha had found the promised emergency center. Its ceiling lights flickered each time the Crown’s backup system changed circuits.
+   “You’re the man from the festival,” Tavi said.
+   Iven knelt in front of him. “Yes.”
+   “Mara said we should stay on the boat.”
+   Iven could not answer.
+   Oren approached with an empty supply cart. They lifted the little girl onto it and took the family toward the upper stairs. Behind them, the medical staff began moving patients by hand.
+   Above the seventy-third floor, they passed residents carrying cases of jewelry. One man protested that the stair traffic violated the protected accommodation agreement. Oren told him to lift a stretcher or get out of the way.
+   For a moment Iven loved his father so fiercely that the fear almost became bearable.
+   The supply system failed before the supplies ran out. Every room request depended on a central service that had lost its connection to the lower data center. Staff kept tapping screens, waiting for authorization that could no longer arrive.
+   Iven found a marker and began writing directly on the wall.
+   MEDICINE THIS LEVEL. FOOD TWO FLOORS UP. CHILDREN WITH GUARDIANS TO THE WEST ROOMS.
+   A resident protested. The wall surface was expensive. Iven handed him another marker and told him to write the same instructions in the eastern stairwell. The man hesitated, then went.
+   Oren organized people who knew how to carry, repair, cook, and care. Titles lost much of their meaning. A senior adviser discovered he could move blankets quickly. A cleaner knew which internal corridors stayed passable when the lifts failed. The doctor who had looked most impressive on the public screens was vomiting from fear, while a junior nurse kept working with blood on her shoes.
+   Letha volunteered to sort clothing. She recognized which families had come from her district and kept them together when the floor assignments tried to split them. Iven watched her speak to a frightened woman, place a hand on her shoulder, and lead her toward a chair. The same protective instinct that had brought Letha here was helping people remain human inside the crowded tower.
+   Tavi helped label cups. He took the task seriously. His letters leaned in different directions, and he asked Iven to check each name before he set the cup aside. Seli slept, woke, cried, and accepted a biscuit from a stranger she would never see again.
+   At a window, a young man tried to contact his parents. He had no signal. He kept moving the device from one corner of the glass to another, as if the right square of window might contain them. Iven wanted to tell him to stop hurting himself. Instead he stood nearby, because he would have done the same.
+   Once, the tower connection flickered alive. Hundreds of devices chimed at once. The sound brought a terrible burst of hope. Then the service collapsed under the simultaneous calls.
+   Oren took a breathing mask from a supply shelf and gave it to a worker coughing from the lower stairs. The worker asked whether the engineers had everything under control.
+   “No,” Oren said. “But we’re working.”
+   The answer frightened the worker. Then he nodded. It gave him something more solid than the broadcast had. He accepted the mask and went to carry another patient.
+   The first aircraft fell beyond the windows shortly after midnight.
+   It struck a communications mast, spun, and disappeared into the dark. The remaining rooftop fleet had enough power for short emergency trips, but no stable air in which to make them. Reports from highland reception sites stopped arriving. One tower station transmitted a picture of water crossing a ridge that every planning model had described as unreachable.
+   Sered ordered the departure deck reserved for Council families.
+   Oren went to confront him.
+   Iven stayed with Tavi. He found a disconnected display terminal and made it show a little orchard. The trees were simple shapes. There were no advertisements. When Tavi touched a branch, a brown bird appeared.
+   “Is that where the boat is?” the boy asked.
+   “It was.”
+   “Can you make us there?”
+   Iven looked at the screen, at all the false afternoons he had sold to lonely people.
+   “I can make a picture,” he said. “I can’t make us there.”
+   Tavi considered that. Then he moved closer and rested his head against Iven’s shoulder.
+   When Oren returned, there was blood at one corner of his mouth. He carried the key to the Council’s private supply rooms.
+   “Open them,” he told Iven.
+   Outside, the water had reached the lower residential windows.
+Chapter 15 A City Leaves the Earth
+Mara’s final view of Enoch came through the upper ventilation opening.
+   She had secured a camera to a pole and extended it just far enough to see beyond the roof. The display showed rain, a tilted horizon, and towers standing in water that had swallowed the neighborhoods between them.
+   The city no longer looked like a solved problem. It looked like abandoned equipment.
+   A tram bridge broke free at one end. For several seconds the suspended train beneath it remained lit. Mara saw small squares of illumination descending through the gray before the water closed over them.
+   Japheth put a hand against her shoulder. She did not turn.
+   “I can’t look away.”
+   “I know.”
+   The ark passed what had been the western ridge. Water struck it from conflicting directions, bearing soil and sections of buildings. The hull shuddered. A heavy object scraped along its side with a shriek that made every person aboard stop breathing until it passed.
+   Mara brought the camera in.
+   Its screen had recorded something near the edge of the picture: the Crown, its upper lights still burning.
+   She saved the frame.
+   Inside that light, Iven and Oren opened the private supply rooms. There were dry blankets, medicine, concentrated food, and enough bottled water to make Iven almost laugh at the obscenity of stored water during a flood.
+   Sered stood in the doorway.
+   “That stock is allocated.”
+   Oren handed him a box.
+   “Carry it.”
+   Two guards approached. For a moment it appeared the old system would resume, with Oren restrained and the supplies locked away. Then one guard took a second box. The other stepped aside.
+   Sered looked smaller without immediate obedience.
+   “We need to preserve order,” he said.
+   “Then help,” Oren answered.
+   For the rest of that night, order meant lines of people handing things to one another. It meant doctors working beneath portable lights. It meant residents opening rooms they had paid enormous sums to keep private. It meant a frightened official kneeling beside a woman who could not stop shaking, holding a cup while she drank.
+   Iven watched Sered do that. He did not forgive him. He did not think forgiveness was the only reason to notice a human being trying, very late, to do something right.
+   At dawn, the Crown tilted.
+   The movement was so slow that people initially blamed themselves for stumbling. Cups slid on tables. The hanging lights pointed toward a place the floors no longer acknowledged as down.
+   Oren reached a maintenance console. The bedrock anchors were reporting lateral displacement. Below them, the earth had begun shifting in ways no foundation could remain attached to.
+   He stared at the measurements.
+   For years he had imagined a final calculation that would let him prevent any failure. Now the calculation showed him the end of calculation’s usefulness.
+   Before leaving the maintenance console, Oren checked the structural estimate three times. Each calculation predicted the same widening failure. The Crown had been designed to resist forces applied to a standing building. It could not remain a standing building when the ground beneath its anchors moved independently.
+   He could have stayed at the console until it went dark. The familiar numbers offered a place to put his fear. Instead he shut the screen off and joined the people waiting in the adjoining rooms.
+   Sered stood there without his formal coat. His shirt was wet at the cuffs. He asked Oren whether another level would be safer.
+   “For a little while, perhaps.”
+   “How long?”
+   “I don’t know.”
+   Sered stared at him. Then he looked at the people around them, as if noticing for the first time that not one of them had been improved by his assurances.
+   “I told them this was safe,” he said.
+   “Yes.”
+   “I thought it was.”
+   Oren did not absolve him. He had used the same explanation often enough to know its limits.
+   “Help them now,” he said.
+   They moved those who could climb toward the next landing. There were no elegant plans left. A man with an artificial leg used his arms to pull himself upstairs. Two neighbors lifted a patient too heavy for either to carry alone. Sered helped with the stretcher and did not ask anyone to film him.
+   At the landing, Oren stopped beside Letha. She asked whether the ark would hold.
+   “I believe it will,” he said.
+   She covered her mouth. Her eyes turned toward the sleeping children. Oren knew what she was asking without words. He sat beside her for a moment because there was no helpful explanation left to give.
+   Tavi woke and asked if the garden boat had windows. Oren described the upper opening and the little rooms. He told him Mara had a blue cup there, and a door latch that had once belonged to a house not yet built.
+   “Will she plant things?” Tavi asked.
+   “I hope so.”
+   “Tell her I like the orange flowers.”
+   Oren promised he would try. The boy rested his head against his grandmother. Oren remained until Seli’s breathing had steadied, then went looking for his son.
+   For the first time that day, he was not looking for an engineer, an employee, or someone useful to the Council. He was looking for Iven.
+   He searched for Iven and found him by a window with the recorder in his hand.
+   “Any signal?” Oren asked.
+   “Nothing.”
+   They stood together while a city their family had helped build disappeared below.
+   “I should have gone,” Oren said.
+   Iven looked at him.
+   His father’s voice was quiet, emptied of defense.
+   “I kept thinking there would be one more meeting. One more reading. One more way to be certain without asking anyone to see me frightened.”
+   Iven took out his wrist device. The local recording function still worked.
+   “Tell her,” he said.
+   “How?”
+   “We’ll record it. We’ll try to send it.”
+   Oren looked into the little lens as though Mara could see him already.
+   “You were not foolish,” he said. “And I was wrong to make you feel alone when you were trying to save us.”
+   He stopped. Around them, people were crying, praying, arguing, asking impossible questions. Oren waited until he could speak without borrowing the words of a public man.
+   “I loved building useful things. I loved being good at it. Somewhere I began loving being trusted more than being trustworthy. Your mother would have seen that sooner.”
+   His face broke.
+   “Live, Mara. If you can hear this someday, live.”
+   Iven added his own message. He did not prepare it.
+   “I’m with Dad. There are children here. We’re helping. I want you to know I’m helping.”
+   He tried to send the file. A narrow connection appeared as the tower’s emergency transmitter swept its final available channels. The progress indicator moved, stopped, moved again.
+   On the ark, Mara’s wrist vibrated.
+   The message arrived without an image. The audio was damaged but audible.
+   She heard her father say her name. She heard Iven say helping.
+   Then she heard their mother singing, very softly. Iven had set the old recorder beside the microphone.
+   Mara pressed the device against her chest.
+   Outside, the Crown’s upper lights disappeared behind a wall of water. When the gray cleared, they did not return.
+Chapter 16 The Work of Staying Alive
+Grief did not relieve anyone of feeding the animals.
+   That was the first cruelty Mara discovered inside the ark, and eventually the first mercy. There were troughs to fill, partitions to inspect, bedding to replace, waste channels to clear, stores to keep dry. The world could end and still leave a list of necessary tasks.
+   On the fourth day of rain, a water pump failed.
+   Mara found herself beside it with her tools open and no memory of walking there. Its little motor had burned out after damp entered a cracked housing. She had a spare controller, two spare seals, and no spare motor.
+   “Could use the manual lift,” Shem said.
+   “For that many animals?”
+   “Until we mend it.”
+   She almost snapped that mending required parts, not optimism. Then she remembered Neri and swallowed the sentence.
+   They set up a line with buckets. Everyone took turns. Noah carried water with his sons. Adah carried it with her daughters-in-law. No one’s belief made a bucket lighter.
+   During the next watch, Mara stripped the failed motor and rewound its damaged coils with wire from an unused lamp. The repair was ugly. It worked at half speed. Half speed was enough.
+   She felt guilty for the small pleasure of success.
+   Kezia found her testing the pump for the sixth time.
+   “It works,” she said.
+   “For now.”
+   “Then sleep for now.”
+   Mara stayed.
+   Later Japheth came down with a cup of broth. She stared at its surface, imagining water beneath the Crown’s windows.
+   “I need to know how many,” she said.
+   “How many what?”
+   “People. Cities. I need to know what we lost.”
+   He sat on an overturned bucket. “Would a number be enough?”
+   She knew it would not.
+   “I left my brother.”
+   “You asked him to come.”
+   “I should have made him.”
+   Japheth rubbed both hands over his face. He was exhausted too, and there were people beyond the ark he had loved who had refused him.
+   “Tell me how,” he said gently.
+   Mara opened her mouth. She imagined dragging Iven from the Crown, striking him, deceiving him, locking him inside. Every imagined rescue turned her into someone he would have fled.
+   “I don’t know.”
+   He took the broth before she spilled it. They sat together until she could drink.
+   On the seventh day, a brace failed along the lower fodder rack during a heavy roll. Sacks fell against a partition. An animal kicked through a loose panel. Ham caught a blow across his shoulder and would not admit how badly it hurt until Kezia made him sit.
+   The repair required all four men, Tirzah’s ropes, and Mara’s improvised lifting frame. As they worked, she found herself issuing short, clear instructions, the way she had at the deep monitoring station.
+   Then Noah moved into the place where Neri had been in her memory, and she froze.
+   The ark rolled again. Japheth shouted her name.
+   She forced her eyes onto the actual beam, the actual ropes, the actual people beside her. She gave the next instruction. The beam rose. They secured it.
+   Afterward, she vomited into a bucket and shook until Adah wrapped her in a blanket.
+   “You kept working,” Adah said.
+   “I was afraid.”
+   “Those can happen together.”
+   The rain became a sound without beginning or end. In dreams, Mara still walked through Enoch. She visited the apartment. The kitchen offered toast. Iven stole the last pear. Then she woke inside timber walls with the entire world moving beneath her.
+   In the third week, Tirzah developed a fever. At first she said the warmth came from the crowded passages. Then she stumbled while carrying linens, and Kezia made her lie down.
+   The change frightened the family more than the broken pump. A pump could be replaced with buckets. There was no replacement for the person who remembered where every piece of clean cloth had gone.
+   Mara checked the medical references on Iven’s local terminal. Most advice assumed a clinic, a laboratory, or a physician who could examine the patient. The ark had none of those things. They could measure temperature, provide fluids, keep the compartment clean, and watch for changes. They did that carefully, aware that surviving the storm had not made ordinary illness impossible.
+   Shem hardly left his wife. He sat beside her bed and read aloud from a book he had never previously enjoyed. Tirzah, delirious one evening, corrected his pronunciation. He began crying and laughing at the same time, which made her tell him to be less noisy.
+   Adah took the night watch. Mara took the early morning. She found that the hours beside the bed altered her grief. For weeks she had treated the whole future as a thing she did not deserve. Now a living woman needed a cup held to her lips. Mara could not refuse the task without refusing the person.
+   On the fourth morning, Tirzah’s fever began to fall. They waited another day before allowing themselves relief. Then Adah cooked a sweet grain dish from stores she had intended to keep for a celebration.
+   “What celebration?” Ham asked.
+   “This one,” she said.
+   They brought bowls to Tirzah’s compartment. She complained that everyone was watching her eat. The complaint was so familiar that Shem smiled for an hour afterward.
+   Later, Mara stood at the upper opening while the rain continued beyond it. Japheth brought two cups of the sweet grain dish and asked whether she wanted company. She said yes before thinking.
+   They ate without speaking. The storm had not weakened. The water had not fallen. Their dead had not returned. Still, one person they loved had begun to recover. Mara let that fact exist without demanding it repair every other fact.
+   She thought of Iven helping children in the Crown. He had discovered the same thing at the end: usefulness did not have to promise victory in order to matter.
+   The next day, she cleaned his terminal and made a protective cover for it. She labeled it with his name, not the name of the manufacturer.
+   One evening she found Noah in the upper passage, writing in a plain ledger.
+   “Do you sleep?” she asked.
+   “Some.”
+   “Do you feel relieved?”
+   He put the pencil down. “At moments. Then I remember someone.”
+   She sat on the bench opposite him.
+   “I thought you would be happy to be right.”
+   Noah looked toward the dark opening above them.
+   “I warned them because I wanted them alive.”
+   For the first time, Mara understood how terribly a warning could fail while becoming true.
+   She gave him the names of Neri, Letha, Tavi, his sister Seli, Oren, and Iven. Noah wrote them carefully. He asked her how Seli’s name was spelled. The question undid her more than any comfort had.
+   He waited while she cried.
+   Then he handed her the pencil, and she wrote the names herself.
+Chapter 17 When the Rain Stopped
+On the fortieth day, Mara woke because something was missing.
+   For several breaths she remained still, listening for the failure that had pulled her from sleep. The pump continued its low, uneven turning. An animal stamped below. Japheth breathed beside her. The hull creaked under a long swell.
+   The rain had stopped.
+   She sat up so quickly that he woke.
+   “Listen.”
+   He did. Then they were both out of bed, moving toward the upper passage without putting on their shoes.
+   The others gathered there one by one. Ham arrived carrying a feed scoop. Tirzah had a needle still caught in the fold of her sleeve. Noah reached the opening and stood beneath it with his face lifted.
+   Light entered differently. During the storm it had been gray and directionless, absorbed by the wet air. Now a paler brightness rested against the roof. Mara could hear water dripping from a fitting instead of the continuous roar above it.
+   They laughed. Not because anything was funny. Their bodies had found a brief way to put down fear.
+   Shem embraced Ham carefully around his injured shoulder. Kezia cried into Tirzah’s neck. Adah touched Noah’s cheek, then held his face between both hands as if checking whether the man she had married had survived along with the vessel.
+   Mara climbed to the narrow lookout.
+   Water extended in every direction.
+   It rose and fell beneath a vast, unfamiliar sky. Far away, clouds moved in layers rather than the old clear expanse. There were no towers. No ridges. No smoke from a working city. Even the floating debris had thinned, carried away or swallowed.
+   The rain had stopped. The Flood had not ended.
+   Her happiness folded inward.
+   Japheth came beside her. He did not tell her the view was beautiful, though in a terrible way it was. Light opened a silver path across the swells. Nothing human interrupted it.
+   “How long?” she asked.
+   “I don’t know.”
+   “Does your father?”
+   “He knows we’re here.”
+   She looked down into the ark, where eight people had begun to talk about breakfast because breakfast remained available to talk about.
+   That day they inventoried the food.
+   Ham had counted stores throughout the rain, but now the totals changed character. They were no longer something to endure until a known interval ended. They were what separated the family from hunger during an unknown future.
+   They reduced waste. They changed feed routines. Mara repaired a drying rack so damp bedding could be reused safely. Kezia organized care according to which animals needed the most attention, not which made the most noise. Tirzah marked clothing for patching before it failed entirely.
+   The days resumed.
+   Without the rain, the sounds of the ark became louder. Mara could distinguish the goat with a cough from the goat that rubbed its horns against a post. She knew which door latch Ham always forgot to lift. She knew Adah’s tread, slower in the evenings, and Noah’s pause before climbing the stairs.
+   She also knew her wrist device would not last indefinitely. The hand charger kept its battery alive, but damp had entered the edges of the screen. A dark spot grew near one corner. The stored voices still played. The photographs sometimes opened with missing bands.
+   She began copying what she could onto paper.
+   At first she recorded technical knowledge: sanitation channels, pump designs, ways to preserve food, measurements for stable frames. Then she drew their apartment from memory. She wrote down the kitchen’s irritating sentences. She described the way Iven chewed fruit while working and the way her father tapped a table when calculating.
+   Japheth read a page and asked why she had written that Oren never said hello.
+   “Because one day I’ll forget.”
+   “You won’t forget him.”
+   “I’ll forget parts of him. Then I’ll make up better parts. I don’t want him turned into a man who always knew what to say.”
+   She left the page unchanged.
+   The practical archive grew into a question about what they should rebuild. Mara drew a small collector plate and explained how dew could gather on a cooled surface. Shem understood the principle immediately. Ham wanted to know whether enough plates could support a settlement.
+   “Eventually,” Mara said.
+   Noah listened while they discussed materials, weather, and the unknown quality of the soil waiting beyond the water. Then he asked what had happened to the city when its collectors failed.
+   Mara began with the heat rise. He let her explain the engineering. When she finished, he asked who had lost water first.
+   She thought of the east hospital ward, the approval queue, the broken filter.
+   “People with the least money,” she said.
+   The room grew quiet. She had wanted to preserve a useful invention without preserving the system that decided whose thirst mattered. The distinction would not happen automatically simply because the towers were gone.
+   Tirzah asked whether a water supply could be kept as a shared obligation rather than a private possession. Ham said even shared things needed people responsible for repairing them. Shem said responsibility should not entitle a person to keep others thirsty. Their discussion became heated, then stopped when Kezia observed that none of them currently owned any ground to put a collector on.
+   They laughed, embarrassed. But Mara kept the questions in the notebook beside the design. Future builders might understand the plate more easily than they understood the danger of using it badly.
+   She included an account of the day she charged a hospital filter to her own maintenance allocation. She wrote that the problem was not solved because a privileged engineer found a way around it. It was only interrupted for one ward.
+   At the bottom of the page she left room for answers they had not found. Leaving blank space felt unlike the city’s presentations, which always arranged the future so that nothing important appeared undecided.
+   Japheth watched her set the pencil down.
+   “Will anyone read all this?” he asked.
+   “I hope so.”
+   “What if they only want the plans?”
+   “Then I’ll put the questions on the same pages.”
+   He smiled. She could not govern descendants she would never meet. She could make it slightly harder for them to inherit her skill while never encountering what she had learned about its consequences.
+   On a later evening, they played her mother’s song in the galley. The little speaker scratched, then cleared. Eight people listened to a voice made before any of them had heard rain.
+   Mara watched Noah’s hands resting on the table. She watched Kezia close her eyes. She watched Ham look toward a wall, embarrassed by his tears.
+   When the song ended, no one asked for another.
+   The quiet that followed was different from the quiet after the rain. It held something they had chosen to share.
+   That night Mara dreamed of Iven. He was not drowning. He was sitting beneath the festival projection, feeding a child from a sack of fruit. In the dream she told him she had heard his last message. He nodded as though he had been waiting for that and returned to his work.
+   She woke weeping, but for once the weeping did not feel like falling.
+Chapter 18 The Long Water
+Time became difficult to inhabit when nothing outside marked it.
+   Noah kept the dates. Ham kept the stores. Adah kept the meals moving through the day in a pattern people could recognize. Without those habits, Mara suspected the family would have begun living in separate hours, drifting apart while shut inside the same vessel.
+   They argued about small things because the large ones could not be changed.
+   Shem thought Ham’s revised feeding schedule left too little time for rest. Ham thought Shem wasted bedding. Kezia said both men should try cleaning the lower cages before discussing efficiency. Tirzah stopped speaking to everyone for half a day after someone used the cloth she had reserved for bandages.
+   Mara and Japheth argued about the device.
+   He found her turning the charger long after her shoulder had begun to ache.
+   “It has power,” he said.
+   “Not enough.”
+   “For tonight it does.”
+   “And tomorrow?”
+   “You can charge it tomorrow.”
+   “You don’t know that.”
+   He took a breath. “No. I don’t.”
+   The screen flickered. Mara pulled the device close to her body as though he had threatened it.
+   His face changed.
+   “I’m asking you to let me help you,” he said.
+   “Then fix it.”
+   It was cruel because she knew he could not. She saw him absorb the words and hated herself for not taking them back quickly enough.
+   He left the compartment.
+   For an hour she told herself he had misunderstood. Then she put the charger down and went to find him.
+   He was tightening cage fittings on the middle level.
+   “I wanted someone to blame,” she said.
+   Japheth stayed bent over his work.
+   “You found someone.”
+   She knelt beside him. The animal behind the mesh watched both of them with bright, unhelpful interest.
+   “I know.”
+   He set down the wrench.
+   “I miss them too, Mara. Your father was going to teach me that roof joint he kept criticizing. Iven promised to give our house terrible voices.”
+   She began to cry.
+   “I thought if I kept the recordings alive, I would still be doing something for them.”
+   “You are.”
+   “But it feels like if I stop—”
+   He took her hand.
+   She could not finish the sentence. He did not require her to.
+   Together they designed a dry housing for the device, using a sealed food tin, cloth, and packets of absorbent mineral that had protected the medical stores. Japheth made the little support frame. Mara cleaned the contacts. They agreed on times to charge it and times to let it rest.
+   It did not solve mortality. It kept one machine working a little longer, which was the work they could do.
+   As the weeks lengthened, a storage cell failed with a sharp smell that made Mara cut its connection immediately. The remaining cells could support pumps and essential lighting, but the margin had become narrow. They switched more work to hand power. The local terminal stayed off except during planned reference periods.
+   She missed its availability more than she expected. In the city, a question could be followed by an answer almost before she had finished asking. A diagram, a measurement, an unfamiliar term: the surrounding network had given her confidence she mistook for knowledge she personally possessed.
+   Now she wrote down questions and waited until the next terminal session. Often she solved one through work before reading the stored explanation. Sometimes she discovered that the reference did not fit their conditions. At other times she found she had remembered something confidently and wrongly.
+   Japheth began teaching her to use the wooden plane Oren had given him. She tried to force it, leaving a rough cut. He asked her to feel where the grain changed. She slowed down. A thin ribbon of wood curled beneath the blade.
+   The tool’s ease depended on attention rather than power. She practiced on spare scraps until her hands began learning what her father’s had known. When she finally produced a smooth edge, she looked toward Japheth with an eagerness that made both of them think of a child bringing home a lesson.
+   “He’d tell you it was adequate,” Japheth said.
+   “And then inspect it twice.”
+   “And then tell someone else you’d done well.”
+   They laughed. Mara kept the curled ribbon in her notebook. It was a small, ridiculous souvenir, and she knew that if she kept every small thing there would soon be no room to sleep. She kept it anyway.
+   At supper, Adah asked everyone to name something they had learned that day. Ham protested that they were not children. Then he admitted he had learned which pair of animals would refuse a certain feed unless it was dampened. Kezia said she had learned Ham could follow instructions when sufficiently motivated.
+   The meal became easier. They continued the practice on other evenings, not as a rule but when the quiet grew too heavy. Some answers were useful. Some were nonsense. Mara discovered that people needed nonsense too, a little space in which nothing had to prove why it deserved to exist.
+   Then the ark stopped moving.
+   The contact came before dawn, a long scrape followed by a settling that threw Mara against the compartment wall. A bowl fell. Animals cried out below. Everyone rushed toward the central aisle, expecting damage.
+   Noah stood with one hand against a beam.
+   He was smiling.
+   Not broadly. Not with the joy they had imagined land would bring. He seemed almost afraid to disturb what he felt beneath his palm.
+   The vessel had come to rest.
+   Mara checked the lower seams with a lamp. Water seeped through no new places. The hull remained intact. From the upper opening she saw water and, through mist, something dark beyond it.
+   A mountain.
+   Only part of it showed, but part was enough to return the word somewhere to the world.
+   They wanted to leave immediately. The stores were still adequate, but no one loved the corridors after so many months. Ham suggested sounding the water near the hull. Shem suggested lowering a line. Mara sketched a small raft before Noah told them they would wait.
+   She disliked hearing it. She knew he was right.
+   The exposed land was steep and barren. Water still moved violently between newly revealed ridges. The air had changed, colder and more restless than the world they remembered. A place to stand was not yet a place to live.
+   Waiting after hope proved harder than waiting before it.
+   They measured visible rocks each morning. Mara made marks on the lookout rail to compare the waterline. Some days nothing seemed to change. Some days the water fell enough to expose another length of stone, and all eight of them crowded the opening as if a rock had come to visit.
+   One afternoon a rainbow briefly formed in distant spray. Mara did not yet know what significance the colors would hold. She only knew that light had divided itself into something beautiful above a world stripped of nearly everything she recognized.
+   She drew it in her notebook with descriptions because she had no colored pencils.
+   Below the drawing she wrote: We are still here.
+   Then, after thinking, she added: Today we repaired six hinges, cleaned the lower water tank, and apologized to one another.
+   She thought future people ought to know what being still here required.
+Chapter 19 The Leaf
+The raven left with the air of a creature impatient with human arrangements.
+   Noah opened the passage and released it. It stepped once along the sill, looked back at the crowded faces, and flew into the pale morning. Its black shape moved across the water toward the exposed ridges.
+   For hours they watched.
+   The raven appeared again, then vanished. It moved to and fro beyond the vessel, finding perches they could not see. Its movements showed them there was something outside, but not whether there was enough outside for them.
+   Days later, Noah prepared the dove.
+   Mara had helped care for it since the storm began. It had a small gray mark near one eye, which made it seem more particular than the word dove allowed. She handed it to Noah reluctantly.
+   “It may come back,” he said.
+   “I know.”
+   She did not want the bird to be one more thing she watched disappear.
+   Noah released it gently. The dove rose, circled, and flew beyond the mountain shoulder.
+   The family resumed work with their attention elsewhere. Ham spilled grain. Tirzah sewed a sleeve closed while intending to mend its edge. Mara tested a valve she had already tested and realized she was listening for wings.
+   Near evening, the dove returned.
+   Noah held out his hand and brought it inside. Its feet were damp. It carried nothing. Mara fed it while trying not to treat its return as defeat.
+   “It found us,” Adah said.
+   That was true. The world had become large and empty, and the bird had found them.
+   During the next seven days, Mara worked on the book of remembrance she had begun. Noah contributed family histories. Adah described the old gardens and how to save seeds. Shem drew tools. Tirzah recorded methods for weaving and preserving cloth. Kezia wrote down animal care, including the things people forgot because they seemed obvious.
+   Ham asked whether they should record the names of the cruel people too.
+   “Yes,” Mara said.
+   “To shame them?”
+   “To keep ourselves from inventing a world that was kinder than it was.”
+   Noah nodded. “And record kindness. Otherwise we invent a world that had none.”
+   Mara wrote about Sered kneeling beside a frightened woman, a detail Iven had spoken into his final message before the signal cleared. She wrote about his locked stores too. Both belonged to him.
+   She wrote about Letha protecting a room because homelessness had taught her that a door with a lock could matter more than a promise. She wrote that Tavi had said you’re welcome before anyone thanked him. She wrote Seli’s name again, carefully.
+   The second dove flight began on a clear morning.
+   The bird disappeared toward the lower slopes. Mara watched until Japheth touched her elbow and handed her a bucket. They still had chores. She resented the bucket, then appreciated it, then resented it again.
+   That afternoon, Mara attempted to play Iven’s final message and found the file would not open. The device offered to repair its damaged storage. She knew what that process could erase. She shut it down immediately.
+   For a moment she felt all the old panic return. She had copied the words, but words on paper did not contain the way his voice had shaken when he said he was helping. They did not contain the brief sound of Oren breathing beside him.
+   She worked slowly. She isolated the accessible files, transferred them to the ark terminal, and inspected the damaged directory. The process took three reference sessions because they could not give the remaining batteries entirely to her grief. She hated the limit and agreed with it. Both feelings remained.
+   Part of the message survived. Part did not.
+   She listened to the intact section once, then copied its words again. Japheth sat beside her without pretending a copy was identical to the voice. She asked him what he remembered of Iven. He described the day Iven secretly made their kettle announce Japheth’s name in a grand ceremonial tone. He described him oiling the latch. He described the bright pleasure on his face when the feed lift finally worked.
+   Those memories had not come through any device. They had survived in someone else.
+   Mara called the others together later and asked what they remembered of the people who had visited the ark. At first they answered cautiously, fearing they might make her cry. She told them crying did not mean the memory had harmed her.
+   Adah remembered Oren refusing a second helping and then accepting it when he thought nobody noticed. Ham remembered Tavi asking whether every animal got a name. Kezia remembered Letha washing a meal bowl she had not been asked to wash.
+   Mara wrote as they spoke. The archive became less neat and more alive. People disagreed over dates. Shem remembered an expression differently from Tirzah. Noah recalled a kindness Mara had never witnessed. Instead of forcing the accounts into one perfect story, she kept the differences.
+   When they finished, she looked at the notebook, crowded with other people’s handwriting. She had imagined remembrance as a task she must perform alone because she was the one most afraid of forgetting. Now she understood how much she could lose while refusing help.
+   The lookout bell sounded. She closed the book and followed Japheth upstairs.
+   At sunset the dove returned carrying an olive leaf.
+   It was a small thing. A green leaf, bruised near one edge, held in a beak that had no interest in history.
+   Noah took it with fingers that suddenly seemed too large.
+   Adah began laughing and crying at once. Ham shouted for everyone already standing beside him. Kezia covered her face. Shem bent his head against Tirzah’s shoulder.
+   Mara touched the leaf only after Noah offered it.
+   For so long, hope had meant endurance. Do the work. Count the stores. Repair what failed. Keep breathing. Now it had become something with a vein running through it, something that had grown outside their vessel without their help.
+   She wanted to tell Iven.
+   The desire came so swiftly that her hand moved toward her wrist before she remembered. She stood with her fingers against the dead network band, feeling happiness and loss occupy the same small space.
+   Japheth put his forehead against hers.
+   “Tell him in the book,” he said.
+   That night she wrote a letter rather than a record.
+   Iven, today a bird brought us a leaf. You would have said it was a poor return on a very long expedition. Then you would have found a way to make it light up. Dad would have asked what elevation it came from. Mother would have put it in water. I wanted all of you here for something so small that nobody in our city would have stopped walking to look at it.
+   She paused. The little lamp beside her had begun to flicker. She adjusted its contact and continued.
+   I don’t know what the new world will ask of us. I’m afraid we will carry the old world into it even after losing the buildings. I’m afraid we will rebuild our excuses first. But today I watched eight people rejoice over a leaf, and none of us asked who owned the tree. I want to remember that.
+   She did not pretend she expected an answer.
+   When Noah released the dove again after another seven days, it did not return.
+   They missed it. They were glad.
+   Those feelings no longer seemed impossible together.
+Chapter 20 The First Garden After
+The day they were told to leave, Mara woke before anyone called her.
+   She had been dreaming of footsteps in the apartment corridor. For a moment the ark’s walls became her old bedroom. Then a goat called below, and the present returned.
+   Noah stood in the central passage. His face had the exhausted steadiness Mara remembered from their first meeting, when he held a broken saw and asked whether it could be repaired.
+   “It is time,” he said.
+   They opened the way out.
+   Light entered the lower passage in a broad sheet. Air followed, carrying cold stone, damp earth, and something living that Mara could not yet name. She smelled it before she saw the land.
+   The ground beneath the ramp was rough and steep. Dark ridges stretched beyond one another. Patches of drying mud lay between stones. Farther down, water occupied the valleys in unfamiliar shapes. Nothing in the view corresponded to the maps on her device.
+   Noah went first with Adah beside him.
+   Shem and Tirzah followed. Ham put his good arm around Kezia. Japheth waited until Mara had taken a breath she could keep.
+   Then they stepped onto the earth.
+   Her knees nearly failed. After so long adjusting to a moving floor, solid ground felt like motion of another kind. Japheth laughed softly and held her until her body learned what her mind had been begging for.
+   Mara knelt.
+   The soil was cold. She pressed both hands into it. There was grit, a small root, the imprint of her own fingers. She had repaired systems that served millions of people, but she had never felt anything as astonishing as ground willing to remain beneath her.
+   Behind them, the animals began to leave.
+   Some hurried. Some paused at the opening. Birds rose in bursts and scattered across the sky. The great cats walked down the ramp and into the rocks without looking back. The little creatures went among stones as if they had appointments there. Kezia stood near the exit making a useless final count, unable to stop caring simply because the cages were emptying.
+   They spent the first hours outside without trying to begin anything grand.
+   They found a level place. They carried water. They marked a safe path to the ramp. Shem and Ham inspected the slope above them for loose stone. Tirzah put blankets in the sunlight. Adah sat for ten minutes with her shoes off and said nobody should tell her that resting was wasteful.
+   Noah built an altar.
+   The family gathered while he offered thanks. Mara stood beside Japheth, holding the blue cup in both hands. She could not thank God for her brother’s death. She did not force herself to attempt it. She gave thanks that Iven had spent his final hours helping someone. She gave thanks that she had heard his voice. She gave thanks for her husband’s hand resting against her back and the plain, difficult opportunity to live.
+   Clouds moved across the afternoon.
+   Mara noticed them first. Her body tightened before she thought. All around her, the others looked upward. Kezia caught Ham’s sleeve. A faint shower began beyond the ridge, soft enough to blur the distance rather than hide it.
+   The fear had survived the Flood too.
+   Then light opened behind them.
+   A bow of color stretched across the clouds, brighter and fuller than the one Mara had sketched from the ark. Noah spoke of the covenant God had given, of the promise that the waters would not again destroy all flesh in this way. The bow would be its sign.
+   Mara listened while the colors held above the mountains.
+   She understood that rain would now belong to their lives. The old world’s assurance had been that it had never happened. The new world’s assurance was a promise given after it had.
+   She did not immediately stop being afraid. She stood beneath the colors until fear no longer occupied everything.
+   In the days that followed, they began the first garden.
+   There was no collector skin to lay across the hill, no supply channel to authorize, no soil subscription to renew. There were tools, saved seeds, tired bodies, and ground whose seasons they would have to learn.
+   Mara designed a small watercourse from a spring above the camp. Her first channel overflowed in a brief shower. Her second held. Noah inspected it and told her the gradient was good. The compliment made her think of Oren, and she wept while pretending to examine a stone.
+   Japheth built a shelter with a roof lower than any roof she had known. They fitted the brass latch to its door. It had traveled through the end of a civilization and remained an object intended to let somebody come home.
+   Inside, Mara placed the blue cup on a shelf. She put the protected recorder beside it and the book beneath both. The device still played, though its screen had lost nearly half its light. One evening, she turned the charger while Japheth prepared supper, and her mother’s voice entered their small room.
+   Neither of them spoke over it.
+   Later Mara went outside with a handful of seeds.
+   She planted one row for food, then another. At the end she set aside a small patch where the soil was less stony. There she planted flowers Adah had saved because beauty was also something a family might need. Among them were orange flowers, the kind Tavi had asked her father to remember.
+   She marked the patch with pieces of wood. On them she wrote names: her mother, Oren, Iven, Neri, Letha, Tavi, Seli. She knew she could not plant enough flowers for everyone. She also knew that failing to remember everyone did not forbid her from remembering someone.
+   The first disagreement outside the ark concerned where to build the second shelter. Ham wanted the level ground near the spring. Shem wanted a place farther from the runoff channel. Both had reasons. Both became louder as the discussion went on, each beginning to treat the other’s objection as evidence of a defect in his character.
+   Mara recognized the pattern before she knew what to do about it. The earth had changed. Human beings could still turn a practical uncertainty into a contest over who deserved to be heard.
+   She asked them to walk both sites with her. Ham came reluctantly. Shem came carrying a pole to prove his point about the slope. They measured, dug, and argued less because the ground gave them something outside themselves to examine.
+   They chose a third site neither had proposed. Nobody got the satisfaction of winning. Everybody got a place less likely to flood in an ordinary shower.
+   That evening, they ate beside the first fire they had built outside. Adah served the remaining sweet grain in portions smaller than anyone wanted. Ham apologized to Shem. Shem admitted he had enjoyed sounding right more than he had enjoyed listening. Noah watched them with tired affection.
+   Mara realized the new world would not be kept kind by a single memory of catastrophe. People would get comfortable. They would forget how quickly useful authority could become pride. The garden would need weeding, and so would the ways they lived together. Neither task could be completed once for all time.
+   She wrote that down before bed, then added that she had been impatient with Japheth over the stove and ought to apologize before turning the lesson into something intended for descendants.
+   Inside their shelter, he was trying to fit a crooked shelf. She held the far end while he adjusted its brace. When it finally sat level, he placed the blue cup on it with exaggerated ceremony.
+   “Civilization,” he announced.
+   Mara looked at the cup, the protected recorder, the doorway, and the man beside her.
+   “A beginning,” she said.
+   He agreed. They sat in the doorway until the fire outside became embers. The night was colder than nights in Enoch, and the stars seemed farther away in the changed air. Somewhere along the lower slope, an animal called. Another answered.
+   Mara did not imagine the world speaking a message meant only for her. It was living its own life around the small life they were making. For the first time since the door closed, that felt like a comfort.
+   Weeks later, the first green shoots appeared.
+   Mara brought Japheth to see them. He crouched beside her, studying the tiny leaves with exaggerated seriousness.
+   “Good engineering,” he said.
+   She laughed. It surprised her how fully she could laugh now, without betraying anybody.
+   Their first home in the new world remained small. Their meals remained plain. They argued, mended, learned, and sometimes woke from dreams they could not explain to each other. Beyond the garden, animals moved into valleys that had never held their footprints before.
+   One morning Mara found dew along the shelter roof.
+   She touched a bead with her fingertip. It was the old familiar water, gathered quietly out of air. Above her, clouds moved across the sky. There would be rain later. The channel was ready. The roof would hold.
+   Inside, Japheth called that breakfast was burning.
+   She went to help him.
+   The garden remained outside the open door, growing in a world they had not finished learning to love.
